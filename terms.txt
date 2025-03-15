@@ -1,0 +1,8894 @@
+{
+    "美国律师协会": [
+        "ABA",
+        0.6
+    ],
+    "放弃": [
+        "surrender",
+        0.7
+    ],
+    "中止": [
+        "suspension (of driver's license)",
+        0.7
+    ],
+    "遗弃": [
+        "abandon",
+        0.8
+    ],
+    "离弃配偶或子女": [
+        "abandonment",
+        0.9
+    ],
+    "合同的撤销": [
+        "abandonment",
+        0.9
+    ],
+    "减轻或废除": [
+        "abate",
+        0.7
+    ],
+    "排除妨害者": [
+        "abator",
+        0.6
+    ],
+    "诱骗": [
+        "abduction",
+        0.9
+    ],
+    "绑架": [
+        "kidnapping",
+        0.9
+    ],
+    "煽动": [
+        "abet",
+        0.9
+    ],
+    "教唆他人犯罪": [
+        "abet",
+        0.9
+    ],
+    "财产归属待定状态": [
+        "abeyance",
+        0.7
+    ],
+    "法律行为能力": [
+        "ability",
+        0.9
+    ],
+    "从一开始": [
+        "ab initio",
+        0.9
+    ],
+    "发誓放弃": [
+        "abjure",
+        0.7
+    ],
+    "发誓断绝": [
+        "abjuration",
+        0.7
+    ],
+    "废止": [
+        "defeasance",
+        0.7
+    ],
+    "堕胎": [
+        "abortion",
+        1.0
+    ],
+    "中止妊娠": [
+        "abortion",
+        1.0
+    ],
+    "剥夺": [
+        "oust",
+        0.7
+    ],
+    "取消或废除": [
+        "abrogate",
+        0.9
+    ],
+    "潜逃": [
+        "abscond",
+        0.9
+    ],
+    "缺席审判": [
+        "abstentia",
+        0.8
+    ],
+    "免罪": [
+        "absolve",
+        0.9
+    ],
+    "免责": [
+        "absolve",
+        0.9
+    ],
+    "绝对所有权": [
+        "absolute title",
+        0.9
+    ],
+    "自我约束放弃权利": [
+        "abstain",
+        0.7
+    ],
+    "判案简报": [
+        "abstract of conviction",
+        0.7
+    ],
+    "产权简史": [
+        "abstract of title",
+        0.8
+    ],
+    "虐待": [
+        "abuse",
+        0.9
+    ],
+    "滥用": [
+        "abuse",
+        0.9
+    ],
+    "减轻责任的借口": [
+        "abuse excuse",
+        0.8
+    ],
+    "滥用自由裁量权": [
+        "abuse of discretion",
+        0.9
+    ],
+    "诉讼程序不正确适用": [
+        "abuse of process",
+        0.9
+    ],
+    "邻接": [
+        "abut/abutting",
+        0.7
+    ],
+    "毗连": [
+        "abut/abutting",
+        0.7
+    ],
+    "财产权提前享有": [
+        "acceleration",
+        0.8
+    ],
+    "加速条款": [
+        "acceleration clause",
+        0.9
+    ],
+    "承诺": [
+        "undertaking",
+        0.8
+    ],
+    "承兑票据的人": [
+        "acceptor",
+        0.8
+    ],
+    "探望权": [
+        "visitation right",
+        0.9
+    ],
+    "数据访问": [
+        "access",
+        0.8
+    ],
+    "就职": [
+        "accession",
+        0.7
+    ],
+    "财产增附": [
+        "accession",
+        0.7
+    ],
+    "同谋": [
+        "aid and abet",
+        0.9
+    ],
+    "帮凶": [
+        "accessory",
+        0.9
+    ],
+    "探视权": [
+        "access right",
+        0.8
+    ],
+    "意外事故": [
+        "accident",
+        0.7
+    ],
+    "共犯": [
+        "accomplice",
+        0.9
+    ],
+    "正式协议": [
+        "accord",
+        0.8
+    ],
+    "和解与清偿": [
+        "accord and satisfaction",
+        0.9
+    ],
+    "账目": [
+        "account",
+        0.7
+    ],
+    "债务人": [
+        "obligor",
+        0.8
+    ],
+    "应付账款": [
+        "account payable",
+        0.6
+    ],
+    "应收账款": [
+        "account receivable",
+        0.6
+    ],
+    "会计方法": [
+        "accounting method",
+        0.7
+    ],
+    "官方认可投资者": [
+        "accredited investor",
+        0.7
+    ],
+    "财产添附": [
+        "accretion",
+        0.7
+    ],
+    "积累": [
+        "accrue",
+        0.7
+    ],
+    "累积折旧": [
+        "accumulated depreciation",
+        0.6
+    ],
+    "指控": [
+        "charge",
+        0.9
+    ],
+    "控告": [
+        "sue",
+        0.9
+    ],
+    "控告制": [
+        "accusatorial",
+        0.8
+    ],
+    "控告起诉书": [
+        "accusatory instrument",
+        0.9
+    ],
+    "被告": [
+        "Respondent",
+        0.9
+    ],
+    "承认": [
+        "acknowledgment",
+        0.9
+    ],
+    "公证": [
+        "notarize",
+        0.8
+    ],
+    "默认": [
+        "acquiescence",
+        0.8
+    ],
+    "默许": [
+        "acquiescence",
+        0.8
+    ],
+    "熟人强奸": [
+        "acquaintance rape",
+        0.9
+    ],
+    "获得": [
+        "acquire",
+        0.7
+    ],
+    "收购": [
+        "buyout",
+        0.8
+    ],
+    "购并": [
+        "acquisition",
+        0.8
+    ],
+    "判决无罪": [
+        "acquit",
+        0.9
+    ],
+    "无罪裁定": [
+        "directed verdict of acquittal",
+        0.9
+    ],
+    "行为": [
+        "act",
+        0.9
+    ],
+    "不可抗力": [
+        "vis major",
+        0.9
+    ],
+    "诉讼": [
+        "suit",
+        0.9
+    ],
+    "可控告的": [
+        "actionable",
+        0.9
+    ],
+    "保险精算师": [
+        "actuary",
+        0.7
+    ],
+    "犯罪行为": [
+        "actus reus",
+        0.9
+    ],
+    "附加物": [
+        "addendum",
+        0.7
+    ],
+    "撤销遗赠": [
+        "ademption",
+        0.8
+    ],
+    "附意合同": [
+        "adhesion contract",
+        0.9
+    ],
+    "程序法": [
+        "adjective law",
+        0.9
+    ],
+    "判决": [
+        "judgment",
+        0.9
+    ],
+    "理算员": [
+        "adjuster",
+        0.7
+    ],
+    "待审理案件": [
+        "active case",
+        0.7
+    ],
+    "索赔金额": [
+        "ad damnum",
+        0.8
+    ],
+    "法律条件一致": [
+        "ad idem",
+        0.9
+    ],
+    "延期审讯": [
+        "adjourn",
+        0.8
+    ],
+    "延期": [
+        "extension",
+        0.7
+    ],
+    "裁定": [
+        "adjudicate",
+        0.9
+    ],
+    "宣告": [
+        "adjudication",
+        0.9
+    ],
+    "破产宣告": [
+        "adjudication",
+        0.9
+    ],
+    "专为诉讼指定": [
+        "ad litem",
+        0.9
+    ],
+    "遗产管理": [
+        "administration",
+        0.9
+    ],
+    "行政法规": [
+        "administrative laws",
+        0.9
+    ],
+    "女遗产管理人": [
+        "administratrix",
+        0.7
+    ],
+    "海事法": [
+        "admiralty",
+        0.9
+    ],
+    "海事法院": [
+        "admiralty courts",
+        0.8
+    ],
+    "海商法": [
+        "maritime law",
+        0.8
+    ],
+    "非诉讼程序": [
+        "ADR",
+        0.8
+    ],
+    "行政规章": [
+        "administrative agency regulations",
+        0.8
+    ],
+    "行政命令": [
+        "administrative orders",
+        0.8
+    ],
+    "吊销驾驶执照": [
+        "administrative revocation",
+        0.9
+    ],
+    "遗产管理人": [
+        "administrator",
+        0.8
+    ],
+    "新指派财产管理人": [
+        "administrator de bonis non",
+        0.7
+    ],
+    "可采纳证据": [
+        "admissible evidence",
+        0.9
+    ],
+    "坦白": [
+        "admission(s)",
+        0.9
+    ],
+    "认罪": [
+        "admission(s)",
+        0.9
+    ],
+    "允许作为证据": [
+        "admit",
+        0.9
+    ],
+    "允许保释": [
+        "admit to bail",
+        0.9
+    ],
+    "允许律师执业": [
+        "admit to practice",
+        0.8
+    ],
+    "警告": [
+        "admonish",
+        0.7
+    ],
+    "告诫": [
+        "admonish",
+        0.7
+    ],
+    "收养": [
+        "adoption",
+        0.9
+    ],
+    "成年人": [
+        "adult",
+        0.8
+    ],
+    "通奸": [
+        "adultery",
+        0.9
+    ],
+    "从价税": [
+        "ad valorem",
+        0.7
+    ],
+    "预付款": [
+        "advance",
+        0.7
+    ],
+    "预先指示": [
+        "advance directive",
+        0.9
+    ],
+    "预付财产": [
+        "advancement",
+        0.8
+    ],
+    "对抗制": [
+        "adversary system",
+        0.9
+    ],
+    "对方当事人": [
+        "adversary",
+        0.9
+    ],
+    "对抗诉讼": [
+        "adversary proceedings",
+        0.9
+    ],
+    "不利推断": [
+        "adverse inference",
+        0.9
+    ],
+    "对己有利": [
+        "adverse interest",
+        0.8
+    ],
+    "时效占有": [
+        "adverse possession",
+        0.9
+    ],
+    "咨询意见": [
+        "advisory opinion",
+        0.7
+    ],
+    "讼辩": [
+        "advocacy",
+        0.9
+    ],
+    "辩护": [
+        "defend",
+        0.9
+    ],
+    "辩护人": [
+        "defense attorney",
+        0.9
+    ],
+    "律师": [
+        "solicitor",
+        0.7
+    ],
+    "宣誓者": [
+        "affiant",
+        0.9
+    ],
+    "宣誓书": [
+        "affidavit",
+        0.9
+    ],
+    "关联公司": [
+        "affiliates",
+        0.7
+    ],
+    "姻亲关系": [
+        "affinity",
+        0.8
+    ],
+    "维持原判": [
+        "affirmed",
+        0.9
+    ],
+    "正式证词": [
+        "affirmation",
+        0.9
+    ],
+    "积极抗辩": [
+        "affirmative defense",
+        0.9
+    ],
+    "肯定性救济": [
+        "affirmative relief",
+        0.9
+    ],
+    "永久附上": [
+        "affix",
+        0.7
+    ],
+    "聚众斗殴": [
+        "affray",
+        0.9
+    ],
+    "二级市场": [
+        "aftermarket",
+        0.6
+    ],
+    "首席检察官": [
+        "AG",
+        0.8
+    ],
+    "法律认可年龄": [
+        "age of consent",
+        0.9
+    ],
+    "法定成年人年龄": [
+        "age of majority",
+        0.9
+    ],
+    "代理关系": [
+        "agency",
+        0.9
+    ],
+    "代理人": [
+        "proxy",
+        0.7
+    ],
+    "数罪并罚": [
+        "aggregate",
+        0.8
+    ],
+    "加重的": [
+        "aggravated",
+        0.9
+    ],
+    "恶性重罪": [
+        "aggravated felony",
+        0.9
+    ],
+    "协议": [
+        "settlement",
+        0.9
+    ],
+    "教唆": [
+        "suborn",
+        0.9
+    ],
+    "第二传票": [
+        "alias summons",
+        0.7
+    ],
+    "不在犯罪现场": [
+        "alibi",
+        0.9
+    ],
+    "外国人": [
+        "alien",
+        0.8
+    ],
+    "可转让的": [
+        "alienable",
+        0.8
+    ],
+    "让与财产": [
+        "alienate",
+        0.8
+    ],
+    "财产转让": [
+        "conveyance",
+        0.9
+    ],
+    "生活费": [
+        "alimony",
+        0.9
+    ],
+    "抚养费": [
+        "alimony",
+        0.9
+    ],
+    "非文件引申": [
+        "aliunde",
+        0.6
+    ],
+    "控诉主张": [
+        "allegation",
+        0.9
+    ],
+    "认罪供词": [
+        "allocution",
+        0.9
+    ],
+    "选择性抗辩": [
+        "alternative pleading",
+        0.8
+    ],
+    "服从的": [
+        "amenable",
+        0.7
+    ],
+    "修正案": [
+        "amendment",
+        0.9
+    ],
+    "法庭之友": [
+        "amicus curiae",
+        0.8
+    ],
+    "大赦": [
+        "amnesty",
+        0.9
+    ],
+    "特赦": [
+        "amnesty",
+        0.9
+    ],
+    "分期偿还": [
+        "amortization",
+        0.7
+    ],
+    "古时领地": [
+        "ancient demesne",
+        0.6
+    ],
+    "附属的": [
+        "ancillary",
+        0.7
+    ],
+    "附加遗产管理": [
+        "ancillary administration",
+        0.7
+    ],
+    "附带诉讼": [
+        "ancillary proceedings",
+        0.7
+    ],
+    "附带起诉": [
+        "ancillary suit",
+        0.7
+    ],
+    "注释": [
+        "annotations",
+        0.6
+    ],
+    "领年金者": [
+        "annuitant",
+        0.7
+    ],
+    "年金": [
+        "annuity",
+        0.7
+    ],
+    "废除": [
+        "vacate",
+        0.8
+    ],
+    "撤销": [
+        "Rescind",
+        0.9
+    ],
+    "宣告无效": [
+        "annulment",
+        0.9
+    ],
+    "答辩书": [
+        "answer",
+        0.9
+    ],
+    "婚前协议": [
+        "prenuptial agreement",
+        0.7
+    ],
+    "预期违约": [
+        "anticipatory breach",
+        0.9
+    ],
+    "反垄断法": [
+        "antitrust laws",
+        0.9
+    ],
+    "上诉": [
+        "appeal",
+        0.9
+    ],
+    "上诉许可申请": [
+        "application for leave to appeal",
+        0.8
+    ],
+    "法定上诉权": [
+        "appeal by right",
+        0.9
+    ],
+    "庭审记录": [
+        "transcript",
+        0.8
+    ],
+    "出庭": [
+        "appearance",
+        0.9
+    ],
+    "应诉书": [
+        "appearance",
+        0.9
+    ],
+    "上诉人": [
+        "appellant",
+        0.9
+    ],
+    "上诉法院": [
+        "superior court",
+        0.9
+    ],
+    "被上诉人": [
+        "appellee",
+        0.9
+    ],
+    "申请": [
+        "application",
+        0.7
+    ],
+    "估价": [
+        "valuation",
+        0.6
+    ],
+    "增值": [
+        "appreciation",
+        0.6
+    ],
+    "挪用": [
+        "misappropriation",
+        0.9
+    ],
+    "附属物": [
+        "appurtenant",
+        0.7
+    ],
+    "仲裁的": [
+        "arbitral",
+        0.9
+    ],
+    "任意的": [
+        "arbitrary",
+        0.7
+    ],
+    "仲裁": [
+        "arbitration",
+        0.9
+    ],
+    "仲裁员": [
+        "arbitrator",
+        0.9
+    ],
+    "提审": [
+        "arraign",
+        0.9
+    ],
+    "传讯": [
+        "citation",
+        0.9
+    ],
+    "陪审员名单": [
+        "array",
+        0.8
+    ],
+    "欠款": [
+        "arrears",
+        0.7
+    ],
+    "逮捕": [
+        "arrest",
+        0.9
+    ],
+    "被逮捕人": [
+        "arrestee",
+        0.9
+    ],
+    "阻止判决": [
+        "arrest of judgment",
+        0.9
+    ],
+    "逮捕证": [
+        "arrest warrant",
+        0.9
+    ],
+    "纵火罪": [
+        "arson",
+        0.9
+    ],
+    "法律条款": [
+        "article",
+        0.9
+    ],
+    "弹劾状": [
+        "articles of impeachment",
+        1.0
+    ],
+    "公司章程": [
+        "articles of incorporation",
+        0.9
+    ],
+    "欺骗": [
+        "artifice",
+        0.9
+    ],
+    "现状交易": [
+        "as is",
+        0.7
+    ],
+    "窃走": [
+        "asportation",
+        0.8
+    ],
+    "侵犯人身": [
+        "assault",
+        0.95
+    ],
+    "殴打罪": [
+        "battery",
+        0.95
+    ],
+    "资产": [
+        "assets",
+        0.9
+    ],
+    "转让": [
+        "demise",
+        0.7
+    ],
+    "受让人": [
+        "assignee",
+        0.8
+    ],
+    "案件分配": [
+        "assignment",
+        0.9
+    ],
+    "指定辩护": [
+        "assignment",
+        0.9
+    ],
+    "口头契约": [
+        "assumpsit",
+        0.7
+    ],
+    "自甘冒险": [
+        "assumption of the risk",
+        0.9
+    ],
+    "保证": [
+        "undertaking",
+        0.8
+    ],
+    "庇护州": [
+        "asylum state",
+        0.8
+    ],
+    "待裁决": [
+        "at issue",
+        0.8
+    ],
+    "凶残的": [
+        "atrocious",
+        0.6
+    ],
+    "附加条件": [
+        "attach",
+        0.9
+    ],
+    "查封": [
+        "attach",
+        0.9
+    ],
+    "财产保全": [
+        "attachment",
+        0.9
+    ],
+    "剥夺民事权利": [
+        "attainder",
+        1.0
+    ],
+    "剥夺公权": [
+        "attaint",
+        0.6
+    ],
+    "暗杀": [
+        "attentat",
+        0.8
+    ],
+    "见证": [
+        "attest",
+        0.9
+    ],
+    "证明书": [
+        "attestation",
+        0.9
+    ],
+    "律师-当事人保密特权": [
+        "attorney-client privilege",
+        1.0
+    ],
+    "司法部长": [
+        "attorney general",
+        0.9
+    ],
+    "授权代理人": [
+        "attorney in fact",
+        0.9
+    ],
+    "记录在案律师": [
+        "attorney of record",
+        0.9
+    ],
+    "拍卖": [
+        "auction",
+        0.7
+    ],
+    "审计": [
+        "audit",
+        0.8
+    ],
+    "认证文件": [
+        "authenticated",
+        0.9
+    ],
+    "授权": [
+        "delegate",
+        0.8
+    ],
+    "尸检": [
+        "autopsy",
+        0.9
+    ],
+    "票据保障": [
+        "aval",
+        0.7
+    ],
+    "证实": [
+        "aver",
+        0.8
+    ],
+    "主张": [
+        "averment",
+        0.8
+    ],
+    "规避": [
+        "avoid",
+        0.9
+    ],
+    "避税": [
+        "tax avoidance",
+        0.8
+    ],
+    "仲裁裁决": [
+        "award",
+        0.9
+    ],
+    "自动放弃管辖权": [
+        "automatic waiver",
+        0.7
+    ],
+    "案件积压量": [
+        "backlog",
+        0.5
+    ],
+    "坏账": [
+        "bad debts",
+        0.5
+    ],
+    "不守信用": [
+        "bad faith",
+        0.8
+    ],
+    "失效产权": [
+        "bad title",
+        0.7
+    ],
+    "保证金": [
+        "bail",
+        0.9
+    ],
+    "保释保证书": [
+        "bail bond",
+        0.9
+    ],
+    "受托保管人": [
+        "bailee",
+        0.8
+    ],
+    "法警": [
+        "tipstaff",
+        0.6
+    ],
+    "委托保管": [
+        "bailment",
+        0.8
+    ],
+    "委托人": [
+        "bailor",
+        0.8
+    ],
+    "资产负债表": [
+        "balance sheet",
+        0.6
+    ],
+    "银行留置权": [
+        "banker's lien",
+        0.7
+    ],
+    "破产人": [
+        "bankrupt",
+        0.8
+    ],
+    "破产": [
+        "bankruptcy",
+        0.9
+    ],
+    "律师业": [
+        "bar",
+        0.7
+    ],
+    "法庭围栏": [
+        "bar",
+        0.5
+    ],
+    "美国律师资格考试": [
+        "bar examination",
+        0.6
+    ],
+    "交易": [
+        "bargain",
+        0.8
+    ],
+    "私生": [
+        "bar sinister",
+        0.4
+    ],
+    "无理取闹的诉讼": [
+        "barratry",
+        0.7
+    ],
+    "出庭律师": [
+        "barrister",
+        0.7
+    ],
+    "物物交换": [
+        "barter",
+        0.6
+    ],
+    "私生子": [
+        "child born out of wedlock",
+        0.7
+    ],
+    "持票人": [
+        "bearer",
+        0.8
+    ],
+    "交战国": [
+        "belligerent",
+        0.8
+    ],
+    "法官": [
+        "judge",
+        0.8
+    ],
+    "下议院议员": [
+        "bencher",
+        0.5
+    ],
+    "无陪审团审判": [
+        "bench trial",
+        0.9
+    ],
+    "法院拘票": [
+        "bench warrant",
+        0.9
+    ],
+    "受益的": [
+        "beneficial",
+        0.7
+    ],
+    "信托受益人": [
+        "beneficiary",
+        0.9
+    ],
+    "保险受益人": [
+        "beneficiary",
+        0.9
+    ],
+    "遗赠": [
+        "bequeath",
+        0.9
+    ],
+    "遗赠物": [
+        "bequest",
+        0.9
+    ],
+    "最佳证据原则": [
+        "best evidence rule",
+        0.9
+    ],
+    "人兽性交": [
+        "bestiality",
+        0.8
+    ],
+    "不动产增值": [
+        "betterment",
+        0.6
+    ],
+    "排除合理怀疑原则": [
+        "beyond reasonable doubt",
+        1.0
+    ],
+    "偏见": [
+        "bias",
+        0.8
+    ],
+    "仇恨罪行": [
+        "bias crime",
+        0.9
+    ],
+    "两院制的": [
+        "bicameral",
+        1.0
+    ],
+    "报价": [
+        "bid",
+        0.7
+    ],
+    "出价竞买": [
+        "bid shopping",
+        0.6
+    ],
+    "重婚罪": [
+        "bigamy",
+        0.9
+    ],
+    "法案": [
+        "bill",
+        0.9
+    ],
+    "剥夺公权法案": [
+        "bill of attainder",
+        1.0
+    ],
+    "刑事起诉书": [
+        "bill of indictment",
+        0.9
+    ],
+    "海运提单": [
+        "bill of lading",
+        0.9
+    ],
+    "索赔清单": [
+        "bill of particulars",
+        0.8
+    ],
+    "复审状": [
+        "bill of review",
+        0.8
+    ],
+    "权利法案": [
+        "Bill of Rights",
+        1.0
+    ],
+    "卖契": [
+        "bill of sale",
+        0.8
+    ],
+    "受约束": [
+        "bind",
+        0.8
+    ],
+    "具结候审": [
+        "bind over",
+        0.9
+    ],
+    "临时契约": [
+        "binder",
+        0.7
+    ],
+    "有约束力的": [
+        "binding",
+        0.9
+    ],
+    "出生证明": [
+        "birth certificate",
+        0.8
+    ],
+    "黑土地": [
+        "blackacre",
+        0.6
+    ],
+    "敲诈": [
+        "blackmail",
+        0.9
+    ],
+    "空白背书": [
+        "blank indorsement",
+        0.8
+    ],
+    "严格的法律": [
+        "blue laws",
+        0.6
+    ],
+    "防欺诈性转让公司股票法": [
+        "blue sky laws",
+        0.7
+    ],
+    "董事会": [
+        "board of directors",
+        0.7
+    ],
+    "善意": [
+        "bona fide",
+        0.9
+    ],
+    "善意购买人": [
+        "bona fide purchaser",
+        0.9
+    ],
+    "无主物": [
+        "bona vacantia",
+        0.8
+    ],
+    "债券": [
+        "bond",
+        0.7
+    ],
+    "抵押的": [
+        "bonded",
+        0.7
+    ],
+    "保证人": [
+        "warrantor",
+        0.7
+    ],
+    "账面价值": [
+        "book value",
+        0.6
+    ],
+    "联合抵制": [
+        "boycott",
+        0.8
+    ],
+    "违约行为": [
+        "breach",
+        0.9
+    ],
+    "违约": [
+        "breach of contract",
+        0.9
+    ],
+    "失职": [
+        "breach of duty",
+        0.9
+    ],
+    "妨害治安": [
+        "disturbance",
+        0.7
+    ],
+    "违反": [
+        "infringe",
+        0.8
+    ],
+    "闯入": [
+        "break-in",
+        0.9
+    ],
+    "闯入他人领地": [
+        "breaking a close",
+        0.8
+    ],
+    "破门闯入": [
+        "breaking and entering",
+        0.9
+    ],
+    "托管人擅自拆开财物": [
+        "breaking bulk",
+        0.7
+    ],
+    "酒测": [
+        "breathalyzer",
+        0.8
+    ],
+    "弟兄们": [
+        "brethren",
+        0.6
+    ],
+    "贿赂": [
+        "bribery",
+        0.9
+    ],
+    "辩护状": [
+        "brief",
+        0.7
+    ],
+    "提起诉讼": [
+        "file",
+        0.8
+    ],
+    "经纪人": [
+        "broker",
+        0.7
+    ],
+    "举证责任": [
+        "onus probandi",
+        0.9
+    ],
+    "夜贼": [
+        "burglar",
+        0.9
+    ],
+    "夜盗": [
+        "burglarize",
+        0.9
+    ],
+    "恶意侵入他人住宅罪": [
+        "burglary",
+        0.9
+    ],
+    "偷窃": [
+        "thievery",
+        0.6
+    ],
+    "商业判断规则": [
+        "business judgment rule",
+        0.9
+    ],
+    "因果关系测试": [
+        "but for",
+        0.9
+    ],
+    "由于": [
+        "by virtue of",
+        0.6
+    ],
+    "内部章程": [
+        "bylaw",
+        0.7
+    ],
+    "尸体": [
+        "cadaver",
+        0.6
+    ],
+    "案审日程表": [
+        "calendar",
+        0.6
+    ],
+    "案审日程表的审查": [
+        "calendar audit",
+        0.6
+    ],
+    "土地界限标志": [
+        "call",
+        0.6
+    ],
+    "可提前兑付债券": [
+        "callable bond",
+        0.7
+    ],
+    "诽谤": [
+        "injurious falsehood",
+        0.8
+    ],
+    "道德守则": [
+        "canons of ethics",
+        0.7
+    ],
+    "能力": [
+        "capacity",
+        0.9
+    ],
+    "拘票": [
+        "capias",
+        0.9
+    ],
+    "固定资产": [
+        "capital assets",
+        0.7
+    ],
+    "死刑": [
+        "death penalty",
+        0.9
+    ],
+    "股本": [
+        "capital stock",
+        0.7
+    ],
+    "标题": [
+        "caption",
+        0.6
+    ],
+    "捕获": [
+        "capture",
+        0.7
+    ],
+    "案件": [
+        "matter",
+        0.7
+    ],
+    "案例教科书": [
+        "casebook",
+        0.6
+    ],
+    "案件审理流程": [
+        "caseflow",
+        0.6
+    ],
+    "判例法": [
+        "case law",
+        0.9
+    ],
+    "承办案件数": [
+        "caseload",
+        0.6
+    ],
+    "受害者": [
+        "casualty",
+        0.7
+    ],
+    "原因": [
+        "causation",
+        0.9
+    ],
+    "起因": [
+        "cause",
+        0.8
+    ],
+    "诉讼事由": [
+        "cause of action",
+        0.9
+    ],
+    "中止诉讼的申请": [
+        "caveat",
+        0.8
+    ],
+    "货物出门概不退换原则": [
+        "caveat emptor",
+        0.8
+    ],
+    "谴责": [
+        "censure",
+        0.6
+    ],
+    "证明文书": [
+        "certificate",
+        0.7
+    ],
+    "存款单": [
+        "certificate of deposit (CD)",
+        0.7
+    ],
+    "符合使用证书": [
+        "certificate of occupancy",
+        0.8
+    ],
+    "产权证书": [
+        "certificate of title",
+        0.9
+    ],
+    "证明": [
+        "testify",
+        0.9
+    ],
+    "证明无误的副本": [
+        "certified copy",
+        0.7
+    ],
+    "书面证明": [
+        "certify",
+        0.7
+    ],
+    "自然人": [
+        "natural person",
+        0.9
+    ],
+    "要求陪审员回避": [
+        "challenge",
+        0.9
+    ],
+    "质问": [
+        "challenge",
+        0.7
+    ],
+    "有因回避": [
+        "challenge for cause",
+        0.9
+    ],
+    "对陪审团组成反对": [
+        "challenge to the array",
+        0.8
+    ],
+    "立法或司法机关办公场所": [
+        "chamber",
+        0.6
+    ],
+    "法官办公室": [
+        "chambers",
+        0.6
+    ],
+    "帮诉行为": [
+        "champerty",
+        0.8
+    ],
+    "大法官": [
+        "chancellor",
+        0.6
+    ],
+    "衡平法院": [
+        "chancery",
+        0.7
+    ],
+    "大法官法庭": [
+        "chancery",
+        0.7
+    ],
+    "变更审判地点": [
+        "change of venue",
+        0.9
+    ],
+    "对陪审团适用法律的指导": [
+        "charge",
+        1.0
+    ],
+    "多项指控": [
+        "charges",
+        0.9
+    ],
+    "诉讼卷宗": [
+        "charging document",
+        0.9
+    ],
+    "指示": [
+        "charge to the jury",
+        1.0
+    ],
+    "慈善": [
+        "charity",
+        0.6
+    ],
+    "许可证": [
+        "charter",
+        0.8
+    ],
+    "动产抵押": [
+        "chattel mortgage",
+        0.8
+    ],
+    "动产文据": [
+        "chattel paper",
+        0.7
+    ],
+    "动产": [
+        "chattels",
+        0.8
+    ],
+    "支票": [
+        "check",
+        0.7
+    ],
+    "审判长": [
+        "presiding judge",
+        0.7
+    ],
+    "首席大法官": [
+        "chief justice",
+        0.8
+    ],
+    "虐待儿童": [
+        "child abuse",
+        0.9
+    ],
+    "儿童保育专款": [
+        "child care fund",
+        0.6
+    ],
+    "保育条例": [
+        "child care rules",
+        0.7
+    ],
+    "儿童监护": [
+        "child custody",
+        0.9
+    ],
+    "疏忽儿童": [
+        "child neglect",
+        0.9
+    ],
+    "保护儿童程序": [
+        "child protective proceedings",
+        0.9
+    ],
+    "子女抚养费": [
+        "child support",
+        0.9
+    ],
+    "儿童抚养费计算公式": [
+        "child support formula",
+        0.8
+    ],
+    "儿童保护中心": [
+        "children's protective services (CPS)",
+        0.8
+    ],
+    "物品": [
+        "chose",
+        0.6
+    ],
+    "巡回审判": [
+        "circuit",
+        0.7
+    ],
+    "巡回法院": [
+        "circuit court",
+        0.8
+    ],
+    "有细节但无法证实": [
+        "circumstantial",
+        0.8
+    ],
+    "旁证": [
+        "circumstantial evidence",
+        0.8
+    ],
+    "引证": [
+        "cite",
+        0.7
+    ],
+    "引证索引": [
+        "citators",
+        0.6
+    ],
+    "传唤": [
+        "cite",
+        0.8
+    ],
+    "公民的逮捕": [
+        "citizen's arrest",
+        0.7
+    ],
+    "民事的": [
+        "civil",
+        0.9
+    ],
+    "民事诉讼": [
+        "civil actions/lawsuits",
+        0.9
+    ],
+    "藐视法庭罪": [
+        "civil contempt",
+        0.8
+    ],
+    "民事法庭": [
+        "civil court",
+        0.8
+    ],
+    "法律上的死亡": [
+        "civil death",
+        0.7
+    ],
+    "不合作": [
+        "civil disobedience",
+        0.6
+    ],
+    "市民骚乱": [
+        "civil disorder",
+        0.7
+    ],
+    "民事违规行为": [
+        "civil infraction",
+        0.7
+    ],
+    "民事违规认定": [
+        "civil infraction determination",
+        0.7
+    ],
+    "民事违规行为正式听证": [
+        "civil infraction formal hearing",
+        0.7
+    ],
+    "民事违规行为非正式听证": [
+        "civil infraction informal hearing",
+        0.6
+    ],
+    "民事违规制裁": [
+        "civil infraction sanction",
+        0.7
+    ],
+    "民法": [
+        "civil law",
+        0.9
+    ],
+    "公民自由权": [
+        "civil liberty",
+        0.9
+    ],
+    "民事罚款": [
+        "civil penalties",
+        0.8
+    ],
+    "民事权利": [
+        "civil rights",
+        0.9
+    ],
+    "民事过错行为": [
+        "civil wrong",
+        0.8
+    ],
+    "诉讼请求权": [
+        "claim",
+        0.9
+    ],
+    "从遗产获偿权": [
+        "claim",
+        0.8
+    ],
+    "从未成年人等遗产获偿": [
+        "claim",
+        0.8
+    ],
+    "附带要求": [
+        "contingent claim",
+        0.7
+    ],
+    "延迟申请的权利主张": [
+        "tardy claim",
+        0.6
+    ],
+    "追回非法扣押财物诉讼": [
+        "claim and delivery",
+        0.7
+    ],
+    "上诉请求书": [
+        "claim of appeal",
+        0.8
+    ],
+    "提出权利主张人": [
+        "claimant",
+        0.8
+    ],
+    "集体诉讼": [
+        "class action",
+        0.9
+    ],
+    "条款": [
+        "clause",
+        0.8
+    ],
+    "明确而令人信服的证据": [
+        "clear and convincing evidence",
+        0.9
+    ],
+    "票据交易所": [
+        "clearinghouse",
+        0.6
+    ],
+    "完全所有权": [
+        "clear title",
+        0.9
+    ],
+    "行政赦免": [
+        "clemency/executive clemency",
+        0.8
+    ],
+    "书记员": [
+        "court reporter",
+        0.7
+    ],
+    "书记员职位": [
+        "clerkship",
+        0.5
+    ],
+    "律师的当事人": [
+        "client",
+        0.9
+    ],
+    "结束辩论": [
+        "closing argument",
+        0.8
+    ],
+    "讨论终结": [
+        "cloture",
+        0.6
+    ],
+    "影响不动产所有权的障碍": [
+        "cloud on title",
+        0.8
+    ],
+    "法典": [
+        "code",
+        0.9
+    ],
+    "共同被告": [
+        "corespondent",
+        0.8
+    ],
+    "遗嘱附录": [
+        "codicil",
+        0.8
+    ],
+    "将……编成法典": [
+        "codify",
+        0.7
+    ],
+    "强制": [
+        "coercion",
+        0.9
+    ],
+    "审判权限内": [
+        "cognizable",
+        0.8
+    ],
+    "审理": [
+        "cognizance",
+        0.7
+    ],
+    "同居": [
+        "cohabitation",
+        0.7
+    ],
+    "共同继承人": [
+        "parcener",
+        0.7
+    ],
+    "抵押物": [
+        "collateral",
+        0.8
+    ],
+    "间接禁止反言": [
+        "collateral estoppel",
+        0.9
+    ],
+    "枝节问题": [
+        "collateral matters",
+        0.6
+    ],
+    "间接来源规则": [
+        "collateral source rule",
+        0.8
+    ],
+    "对未留遗嘱者遗产评估": [
+        "collation",
+        0.6
+    ],
+    "劳资双方谈判": [
+        "collective bargaining",
+        0.8
+    ],
+    "通谋": [
+        "collusion",
+        0.9
+    ],
+    "立场": [
+        "color",
+        0.5
+    ],
+    "伪装的": [
+        "colorable",
+        0.7
+    ],
+    "有名无实的所有权": [
+        "color of title",
+        0.7
+    ],
+    "联署者": [
+        "comakers",
+        0.7
+    ],
+    "票据": [
+        "commercial paper",
+        0.8
+    ],
+    "佣金": [
+        "commission",
+        0.7
+    ],
+    "犯罪": [
+        "offense",
+        0.9
+    ],
+    "押解到……": [
+        "commit",
+        0.7
+    ],
+    "下狱": [
+        "commitment",
+        0.8
+    ],
+    "有形商品": [
+        "commodity",
+        0.6
+    ],
+    "普通法": [
+        "common law",
+        0.9
+    ],
+    "普通诉讼法院": [
+        "common pleas court",
+        0.7
+    ],
+    "夫妻共有财产": [
+        "community property",
+        0.9
+    ],
+    "社区劳动": [
+        "community service",
+        0.7
+    ],
+    "减轻刑罚": [
+        "commute",
+        0.8
+    ],
+    "比较过失": [
+        "comparative negligence",
+        0.8
+    ],
+    "可补偿的": [
+        "compensable",
+        0.7
+    ],
+    "赔偿金": [
+        "Restitution",
+        0.9
+    ],
+    "权限": [
+        "competence",
+        0.9
+    ],
+    "作证资格": [
+        "competency",
+        0.8
+    ],
+    "受审能力": [
+        "competency to stand trial",
+        0.9
+    ],
+    "法律上适格的证人": [
+        "competency witness",
+        0.7
+    ],
+    "有法定资格的": [
+        "competent",
+        0.8
+    ],
+    "申诉人": [
+        "complainant",
+        0.8
+    ],
+    "起诉书": [
+        "indictment",
+        0.9
+    ],
+    "和解协议": [
+        "composition",
+        0.8
+    ],
+    "私下和解": [
+        "compound",
+        0.7
+    ],
+    "宣誓免责": [
+        "compurgation",
+        0.4
+    ],
+    "辩护者": [
+        "compurgator",
+        0.4
+    ],
+    "隐瞒": [
+        "concealment",
+        0.9
+    ],
+    "一致": [
+        "concert",
+        0.7
+    ],
+    "调解": [
+        "mediation",
+        0.8
+    ],
+    "决定性证据": [
+        "conclusive evidence",
+        0.9
+    ],
+    "同意": [
+        "concur",
+        0.7
+    ],
+    "同时进行的": [
+        "concurrent",
+        0.6
+    ],
+    "共同管辖权": [
+        "concurrent jurisdiction",
+        0.8
+    ],
+    "合并服刑": [
+        "concurrent sentences",
+        0.8
+    ],
+    "附和意见": [
+        "concurring opinion",
+        0.7
+    ],
+    "判定有罪": [
+        "condemn",
+        0.9
+    ],
+    "判决没收": [
+        "condemnation",
+        0.8
+    ],
+    "各户独立产权公寓": [
+        "condominium",
+        0.8
+    ],
+    "国际共管": [
+        "condominium",
+        0.6
+    ],
+    "供词": [
+        "confession",
+        0.9
+    ],
+    "没收": [
+        "sequestration",
+        0.9
+    ],
+    "利益冲突": [
+        "conflict of interest",
+        0.9
+    ],
+    "一致的副本": [
+        "conformed copy",
+        0.8
+    ],
+    "一致的": [
+        "conforming",
+        0.7
+    ],
+    "符合要求的使用": [
+        "conforming use",
+        0.7
+    ],
+    "对质条款": [
+        "confrontation clause",
+        0.9
+    ],
+    "物的混合": [
+        "confusion of goods",
+        0.6
+    ],
+    "联合大企业": [
+        "conglomerate",
+        0.6
+    ],
+    "同居权": [
+        "conjugal rights",
+        0.7
+    ],
+    "配偶探视": [
+        "conjugal visit",
+        0.6
+    ],
+    "血亲关系": [
+        "consanguinity",
+        0.8
+    ],
+    "道德条款": [
+        "conscience clause",
+        0.7
+    ],
+    "法庭良知": [
+        "conscience of the court",
+        0.5
+    ],
+    "连续刑罚": [
+        "consecutive sentence",
+        0.8
+    ],
+    "无争议案件审理日程表": [
+        "consent calendar",
+        0.6
+    ],
+    "同意判决": [
+        "consent judgment",
+        0.8
+    ],
+    "间接因果关系": [
+        "consequential",
+        0.7
+    ],
+    "保护者": [
+        "conservator",
+        0.8
+    ],
+    "托管": [
+        "conservatorship",
+        0.8
+    ],
+    "对价": [
+        "consideration",
+        0.9
+    ],
+    "重要性": [
+        "materiality",
+        0.8
+    ],
+    "合并审理": [
+        "consolidate",
+        0.7
+    ],
+    "配偶权利": [
+        "consortium",
+        0.7
+    ],
+    "阴谋": [
+        "machination",
+        0.7
+    ],
+    "警官": [
+        "peace officer",
+        0.9
+    ],
+    "地方警察部队": [
+        "constabulary",
+        0.6
+    ],
+    "选民": [
+        "constituent",
+        0.5
+    ],
+    "设立": [
+        "constitute",
+        0.8
+    ],
+    "使宪法化": [
+        "constitutionalize",
+        0.9
+    ],
+    "宪法解释者": [
+        "constructionist",
+        0.7
+    ],
+    "推定的": [
+        "tacit",
+        0.8
+    ],
+    "领事": [
+        "consul",
+        0.7
+    ],
+    "执政官": [
+        "consul",
+        0.3
+    ],
+    "领事馆": [
+        "consulate",
+        0.6
+    ],
+    "领事任期": [
+        "consulate",
+        0.4
+    ],
+    "藐视法庭者": [
+        "contemnor",
+        0.7
+    ],
+    "深思熟虑": [
+        "contemplation",
+        0.6
+    ],
+    "藐视法庭": [
+        "contempt of court",
+        0.9
+    ],
+    "遗嘱异议": [
+        "contest",
+        0.8
+    ],
+    "异议人": [
+        "contestant",
+        0.7
+    ],
+    "邻接的": [
+        "contiguous",
+        0.7
+    ],
+    "潜在受益人": [
+        "contingent beneficiary",
+        0.7
+    ],
+    "诉讼延期": [
+        "continuance",
+        0.7
+    ],
+    "违禁品": [
+        "contraband",
+        0.9
+    ],
+    "违反善良道德": [
+        "contra bonos mores",
+        0.8
+    ],
+    "合同": [
+        "contract",
+        0.9
+    ],
+    "逆向利益解释原则": [
+        "contra proferentem",
+        0.8
+    ],
+    "贡献的": [
+        "contributory",
+        0.5
+    ],
+    "混合过错": [
+        "contributory negligence",
+        0.9
+    ],
+    "抗拒法庭命令": [
+        "contumacious",
+        0.7
+    ],
+    "拒不服从": [
+        "contumacy",
+        0.7
+    ],
+    "竞业禁止条款": [
+        "covenant not to compete",
+        0.9
+    ],
+    "侵占": [
+        "encroach",
+        0.7
+    ],
+    "非法挪用": [
+        "convert",
+        0.8
+    ],
+    "转让财产": [
+        "convey",
+        0.9
+    ],
+    "财产转让书": [
+        "conveyance",
+        0.8
+    ],
+    "财产转让业务": [
+        "conveyancing",
+        0.7
+    ],
+    "宣判有罪": [
+        "convict",
+        0.9
+    ],
+    "囚犯": [
+        "prisoner",
+        0.6
+    ],
+    "判决有罪": [
+        "conviction",
+        0.9
+    ],
+    "离婚共同被告": [
+        "corespondent",
+        0.8
+    ],
+    "法人": [
+        "legal person",
+        1.0
+    ],
+    "公司": [
+        "corporation",
+        0.9
+    ],
+    "有形的": [
+        "corporeal",
+        0.7
+    ],
+    "犯罪事实": [
+        "corpus delicti",
+        0.9
+    ],
+    "佐证": [
+        "corroborating evidence",
+        0.8
+    ],
+    "政治行贿": [
+        "corrupt practice",
+        0.9
+    ],
+    "黑手党": [
+        "Cosa Nostra",
+        0.6
+    ],
+    "诉讼费用": [
+        "costs",
+        0.8
+    ],
+    "一项指控": [
+        "count",
+        0.8
+    ],
+    "反诉": [
+        "counterclaim",
+        0.9
+    ],
+    "取消命令": [
+        "countermand",
+        0.7
+    ],
+    "副本": [
+        "counterpart",
+        0.7
+    ],
+    "少年犯罪警官": [
+        "juvenile officer",
+        0.6
+    ],
+    "地方法院": [
+        "county court",
+        0.8
+    ],
+    "法院": [
+        "court",
+        0.9
+    ],
+    "联邦行政法院": [
+        "court of claims",
+        0.7
+    ],
+    "法院案件壅塞": [
+        "court congestion",
+        0.5
+    ],
+    "法院大楼": [
+        "courthouse",
+        0.4
+    ],
+    "军事法庭": [
+        "courtmartial",
+        0.8
+    ],
+    "记录法院": [
+        "court of record",
+        0.7
+    ],
+    "法院命令": [
+        "court order",
+        0.9
+    ],
+    "法庭记录员": [
+        "court recorder",
+        0.6
+    ],
+    "法院记录审查委员会": [
+        "court reporting and recording board of review",
+        0.6
+    ],
+    "法庭规则": [
+        "court rules",
+        0.8
+    ],
+    "法院系统": [
+        "court system",
+        0.7
+    ],
+    "订立合同": [
+        "covenant",
+        0.9
+    ],
+    "合同受约方": [
+        "covenantee",
+        0.8
+    ],
+    "有夫之妇": [
+        "covert",
+        0.6
+    ],
+    "有夫之妇身份": [
+        "coverture",
+        0.5
+    ],
+    "可信性": [
+        "credibility",
+        0.8
+    ],
+    "债权人": [
+        "obligee",
+        0.8
+    ],
+    "法庭发言人": [
+        "crier",
+        0.4
+    ],
+    "刑事犯罪": [
+        "crime against nature",
+        0.8
+    ],
+    "激情犯罪": [
+        "crime of passion",
+        0.7
+    ],
+    "刑事罪犯": [
+        "criminal",
+        0.9
+    ],
+    "刑事案件": [
+        "criminal case",
+        0.9
+    ],
+    "严重的藐视法庭行为": [
+        "criminal contempt",
+        0.9
+    ],
+    "通奸行为": [
+        "criminal conversation",
+        0.7
+    ],
+    "刑事学": [
+        "criminology",
+        0.6
+    ],
+    "刑法": [
+        "criminal law",
+        0.9
+    ],
+    "刑事诽谤罪": [
+        "criminal libel",
+        0.8
+    ],
+    "毁坏财物罪": [
+        "criminal mischief",
+        0.8
+    ],
+    "犯罪记录": [
+        "criminal record",
+        0.9
+    ],
+    "交叉上诉": [
+        "cross appeal",
+        0.8
+    ],
+    "交叉诉讼": [
+        "cross-claim",
+        0.8
+    ],
+    "交叉讯问证人": [
+        "cross-examine",
+        0.9
+    ],
+    "交叉讯问": [
+        "cross examination",
+        0.9
+    ],
+    "家庭虐待": [
+        "cruelty",
+        0.9
+    ],
+    "戴绿帽子的人": [
+        "cuckold",
+        0.3
+    ],
+    "谁人获益": [
+        "cui bono",
+        0.7
+    ],
+    "过失": [
+        "negligence",
+        0.9
+    ],
+    "应受谴责的": [
+        "culpable",
+        0.8
+    ],
+    "鳏夫产业": [
+        "curtesy",
+        0.5
+    ],
+    "宅地": [
+        "curtilage",
+        0.8
+    ],
+    "监护家长": [
+        "custodial parent",
+        0.9
+    ],
+    "监护": [
+        "custody",
+        0.9
+    ],
+    "监护声明": [
+        "custody statement",
+        0.7
+    ],
+    "网络法": [
+        "cyberlaw",
+        0.8
+    ],
+    "力求近似原则": [
+        "cy-pres",
+        0.7
+    ],
+    "地方检察官": [
+        "DA",
+        0.9
+    ],
+    "损害赔偿金": [
+        "damages",
+        0.9
+    ],
+    "智能障碍者": [
+        "DDP",
+        0.6
+    ],
+    "约会强奸": [
+        "date rape",
+        0.9
+    ],
+    "不尽责的父亲/母亲": [
+        "deadbeat dad/mom",
+        0.7
+    ],
+    "难以消除的不利影响": [
+        "dead hand",
+        0.5
+    ],
+    "死亡证明书": [
+        "death certificate",
+        0.8
+    ],
+    "遗产税": [
+        "inheritance tax",
+        0.8
+    ],
+    "死刑执行令": [
+        "death warrant",
+        0.9
+    ],
+    "未指定管理人的财产": [
+        "de bonis non",
+        0.7
+    ],
+    "遗产管理人的后继人": [
+        "de bonis non administratis",
+        0.6
+    ],
+    "宣告式判决": [
+        "declaratory judgment",
+        0.8
+    ],
+    "死亡": [
+        "decease",
+        0.7
+    ],
+    "死者": [
+        "deceased",
+        0.8
+    ],
+    "被继承人": [
+        "decedent",
+        0.8
+    ],
+    "遗产": [
+        "legacy",
+        0.8
+    ],
+    "法律判决": [
+        "decision",
+        0.9
+    ],
+    "申诉者": [
+        "declarant",
+        0.7
+    ],
+    "申诉": [
+        "declaration",
+        0.8
+    ],
+    "合法化": [
+        "legalize",
+        0.8
+    ],
+    "捐献": [
+        "dedication",
+        0.6
+    ],
+    "地契": [
+        "deed",
+        0.9
+    ],
+    "信托契约": [
+        "deed of trust",
+        0.8
+    ],
+    "事实上的": [
+        "de facto",
+        0.9
+    ],
+    "事实上的种族隔离": [
+        "de facto segregation",
+        0.8
+    ],
+    "侵吞公款": [
+        "defalcate",
+        0.9
+    ],
+    "诋毁": [
+        "defame",
+        0.8
+    ],
+    "不履行义务": [
+        "nonfeasance",
+        0.8
+    ],
+    "缺席判决": [
+        "judgment in default",
+        0.9
+    ],
+    "可取消的": [
+        "defeasible",
+        0.7
+    ],
+    "使无效": [
+        "invalidate",
+        0.9
+    ],
+    "有缺陷的": [
+        "defective",
+        0.8
+    ],
+    "辩护方": [
+        "defense",
+        0.9
+    ],
+    "推迟": [
+        "setback",
+        0.6
+    ],
+    "延期付款": [
+        "deferred payments",
+        0.7
+    ],
+    "暂缓宣判": [
+        "deferred sentence",
+        0.8
+    ],
+    "逆差": [
+        "deficit",
+        0.4
+    ],
+    "骗取": [
+        "defraud",
+        0.9
+    ],
+    "等级": [
+        "degree",
+        0.6
+    ],
+    "按照法律的": [
+        "de jure",
+        0.9
+    ],
+    "延迟": [
+        "setback",
+        0.6
+    ],
+    "延迟上诉": [
+        "delayed appeal",
+        0.7
+    ],
+    "刑事案件中确定罪与非罪": [
+        "deliberate",
+        0.9
+    ],
+    "违法行为": [
+        "delict",
+        0.8
+    ],
+    "未成年人犯罪特别诉讼程序": [
+        "delinquency proceedings",
+        0.8
+    ],
+    "交付": [
+        "delivery",
+        0.8
+    ],
+    "要求": [
+        "demand",
+        0.8
+    ],
+    "示意证据": [
+        "demonstrative evidence",
+        0.7
+    ],
+    "抗辩": [
+        "plea",
+        0.9
+    ],
+    "滞留费": [
+        "demurrage",
+        0.6
+    ],
+    "妨诉抗辩": [
+        "demurrer",
+        0.7
+    ],
+    "否认": [
+        "disaffirm",
+        0.7
+    ],
+    "重新开始": [
+        "de novo",
+        0.9
+    ],
+    "家庭事务援助中心": [
+        "Family Independence Agency (FIA)",
+        0.6
+    ],
+    "附属国": [
+        "dependency",
+        0.5
+    ],
+    "被抚养的": [
+        "dependent",
+        0.7
+    ],
+    "证人": [
+        "witness",
+        0.8
+    ],
+    "驱逐出境": [
+        "deport",
+        0.9
+    ],
+    "免职": [
+        "depose",
+        0.7
+    ],
+    "庭外采证": [
+        "deposition",
+        0.9
+    ],
+    "被抛弃的": [
+        "derelict",
+        0.6
+    ],
+    "抛弃": [
+        "desert",
+        0.7
+    ],
+    "取消限制": [
+        "derestrict",
+        0.5
+    ],
+    "皮纹研究": [
+        "dermatoglyphics",
+        0.3
+    ],
+    "背离": [
+        "derogation",
+        0.7
+    ],
+    "可遗传的": [
+        "descendible",
+        0.7
+    ],
+    "直系血亲": [
+        "descent",
+        0.8
+    ],
+    "无遗嘱继承法": [
+        "descent and distribution statutes",
+        0.8
+    ],
+    "指定程序": [
+        "designated proceedings",
+        0.6
+    ],
+    "扣留": [
+        "detention",
+        0.8
+    ],
+    "羁押": [
+        "detain",
+        0.8
+    ],
+    "扣押": [
+        "sequestration",
+        0.9
+    ],
+    "拘留所": [
+        "detention center",
+        0.6
+    ],
+    "可中止的": [
+        "determinable",
+        0.7
+    ],
+    "法律责任认定": [
+        "determination",
+        0.9
+    ],
+    "收回动产诉讼": [
+        "detinue",
+        0.7
+    ],
+    "智障、残疾青少年": [
+        "developmentally disabled person (DDP)",
+        0.6
+    ],
+    "遗赠的财产": [
+        "devise",
+        0.8
+    ],
+    "接受遗赠者": [
+        "devisee",
+        0.7
+    ],
+    "权利转移": [
+        "devolution",
+        0.7
+    ],
+    "权力移交": [
+        "devolve",
+        0.7
+    ],
+    "附带意见": [
+        "obiter dictum",
+        0.7
+    ],
+    "休庭日": [
+        "dies non",
+        0.5
+    ],
+    "法规汇编": [
+        "digest",
+        0.6
+    ],
+    "延期答辩": [
+        "dilatory defenses",
+        0.6
+    ],
+    "拖沓受托人": [
+        "dilatory fiduciary",
+        0.5
+    ],
+    "延期申请": [
+        "dilatory motion",
+        0.6
+    ],
+    "延期抗辩": [
+        "dilatory plea",
+        0.6
+    ],
+    "行为能力减退": [
+        "diminished capacity",
+        0.8
+    ],
+    "直接询问": [
+        "direct examination",
+        0.8
+    ],
+    "指示裁决": [
+        "directed verdict",
+        0.9
+    ],
+    "无资格": [
+        "ineligibility",
+        0.7
+    ],
+    "被宣告失踪人": [
+        "disappeared person",
+        0.7
+    ],
+    "取消律师资格": [
+        "disbar",
+        0.9
+    ],
+    "释放": [
+        "discharge",
+        0.9
+    ],
+    "放弃权利": [
+        "disclaim",
+        0.8
+    ],
+    "否认声明": [
+        "disclaimer",
+        0.7
+    ],
+    "信息披露": [
+        "disclosure",
+        0.9
+    ],
+    "撤销诉讼": [
+        "discontinuance",
+        0.7
+    ],
+    "证据开示": [
+        "discovery",
+        0.9
+    ],
+    "裁量权": [
+        "discretion",
+        0.9
+    ],
+    "歧视": [
+        "discrimination",
+        0.9
+    ],
+    "剥夺公民选举权": [
+        "disenfranchise",
+        0.9
+    ],
+    "驳回": [
+        "set aside",
+        0.9
+    ],
+    "驳回诉讼": [
+        "dismissal",
+        0.9
+    ],
+    "妨害治安的": [
+        "disorderly",
+        0.7
+    ],
+    "扰乱治安的行为": [
+        "disorderly conduct",
+        0.8
+    ],
+    "妓院": [
+        "disorderly house",
+        0.7
+    ],
+    "最终处理": [
+        "dispose",
+        0.8
+    ],
+    "已决案件": [
+        "disposed case",
+        0.6
+    ],
+    "处置": [
+        "disposition",
+        0.9
+    ],
+    "决定性的": [
+        "dispositive",
+        0.8
+    ],
+    "剥夺占有": [
+        "dispossess",
+        0.8
+    ],
+    "丧失资格": [
+        "disqualification",
+        0.8
+    ],
+    "使无资格": [
+        "disqualify",
+        0.8
+    ],
+    "分歧": [
+        "variance",
+        0.7
+    ],
+    "反对意见": [
+        "dissenting opinion",
+        0.7
+    ],
+    "解散": [
+        "dissolution",
+        0.9
+    ],
+    "扣押财产": [
+        "distraint",
+        0.7
+    ],
+    "极度焦虑": [
+        "distress",
+        0.4
+    ],
+    "分配遗产受益人": [
+        "distributee",
+        0.7
+    ],
+    "分配": [
+        "distribution",
+        0.8
+    ],
+    "地区法院": [
+        "district court",
+        0.8
+    ],
+    "剥夺财产": [
+        "divestiture",
+        0.8
+    ],
+    "股息": [
+        "dividend",
+        0.6
+    ],
+    "离婚": [
+        "divorce",
+        0.9
+    ],
+    "被告席": [
+        "dock",
+        0.6
+    ],
+    "备审案件目录表": [
+        "docket",
+        0.7
+    ],
+    "法律原则": [
+        "doctrine",
+        0.8
+    ],
+    "书证": [
+        "documentary evidence",
+        0.9
+    ],
+    "土地领有权": [
+        "domain",
+        0.7
+    ],
+    "家庭暴力": [
+        "domestic violence",
+        0.9
+    ],
+    "家庭关系诉讼": [
+        "domestic relations action",
+        0.8
+    ],
+    "法定住所": [
+        "domicile",
+        0.9
+    ],
+    "主权": [
+        "dominion",
+        0.7
+    ],
+    "受赠人": [
+        "donee",
+        0.8
+    ],
+    "一事不再理原则": [
+        "double jeopardy",
+        0.9
+    ],
+    "享有亡夫遗产的寡妇": [
+        "dowager",
+        0.5
+    ],
+    "亡夫遗产": [
+        "dower",
+        0.6
+    ],
+    "聘礼": [
+        "dowry",
+        0.7
+    ],
+    "汇票": [
+        "money order",
+        0.6
+    ],
+    "滥用毒品": [
+        "drug abuse",
+        0.9
+    ],
+    "醉酒驾车": [
+        "drunk driving",
+        0.9
+    ],
+    "双重国籍": [
+        "dual citizenship",
+        0.8
+    ],
+    "出庭传票": [
+        "duces tecum",
+        0.7
+    ],
+    "应有的注意": [
+        "due care",
+        0.9
+    ],
+    "应有的勤勉": [
+        "due diligence",
+        0.9
+    ],
+    "正当法律程序": [
+        "due process of law",
+        1.0
+    ],
+    "酒后/吸毒后驾驶": [
+        "DUI",
+        0.9
+    ],
+    "双重陈述": [
+        "duplicitous",
+        0.7
+    ],
+    "胁迫": [
+        "duress",
+        0.9
+    ],
+    "住宅": [
+        "dwelling house",
+        0.8
+    ],
+    "定金": [
+        "earnest money",
+        0.8
+    ],
+    "地役权": [
+        "servitude",
+        0.8
+    ],
+    "依法剥夺": [
+        "eject",
+        0.7
+    ],
+    "驱逐": [
+        "evict",
+        0.8
+    ],
+    "犯罪要素": [
+        "elements of a crime",
+        0.9
+    ],
+    "解放": [
+        "emancipation",
+        0.8
+    ],
+    "禁运令": [
+        "embargo",
+        0.9
+    ],
+    "国家征用权": [
+        "eminent domain",
+        0.9
+    ],
+    "报酬": [
+        "emolument",
+        0.7
+    ],
+    "精神极度痛苦": [
+        "emotional distress",
+        0.8
+    ],
+    "选任陪审员": [
+        "empanel",
+        0.7
+    ],
+    "授权法": [
+        "enabling act",
+        0.8
+    ],
+    "制定法律": [
+        "enactment",
+        0.9
+    ],
+    "全体法官出庭": [
+        "in banc",
+        0.8
+    ],
+    "背书": [
+        "indorsement",
+        0.8
+    ],
+    "捐赠": [
+        "endowment",
+        0.6
+    ],
+    "财产负担": [
+        "encumbrance",
+        0.8
+    ],
+    "强制执行": [
+        "enforce",
+        0.9
+    ],
+    "正式写成": [
+        "engross",
+        0.7
+    ],
+    "禁止": [
+        "toll",
+        0.7
+    ],
+    "行使权力": [
+        "enjoyment",
+        0.7
+    ],
+    "全体地": [
+        "en masse",
+        0.5
+    ],
+    "先嗣继承": [
+        "entail",
+        0.6
+    ],
+    "进入程序": [
+        "enter",
+        0.7
+    ],
+    "诱捕": [
+        "entrapment",
+        0.9
+    ],
+    "委托": [
+        "mandatum",
+        0.7
+    ],
+    "取得财产权": [
+        "entry",
+        0.7
+    ],
+    "裁决归档": [
+        "entry of judgment",
+        0.8
+    ],
+    "平等": [
+        "equal",
+        0.9
+    ],
+    "平等保护权": [
+        "equal protection of the law",
+        1.0
+    ],
+    "男女平等权修正案": [
+        "equal rights amendment (ERA)",
+        0.8
+    ],
+    "预防性诉讼": [
+        "equitable action",
+        0.8
+    ],
+    "衡平法救济": [
+        "equitable remedy",
+        0.9
+    ],
+    "财产剩余价额": [
+        "equity",
+        0.7
+    ],
+    "抵押赎回权": [
+        "equity of redemption",
+        0.8
+    ],
+    "错误的": [
+        "erroneous",
+        0.8
+    ],
+    "错误": [
+        "error",
+        0.9
+    ],
+    "浮动条款": [
+        "escalator clause",
+        0.7
+    ],
+    "免责条款": [
+        "exculpatory clause",
+        0.8
+    ],
+    "充公": [
+        "escheat",
+        0.7
+    ],
+    "暂交保管": [
+        "escrow",
+        0.8
+    ],
+    "先生": [
+        "esquire",
+        0.3
+    ],
+    "不动产": [
+        "estate",
+        0.9
+    ],
+    "破产财产": [
+        "estate in bankruptcy",
+        0.9
+    ],
+    "禁止反言": [
+        "estop",
+        0.9
+    ],
+    "禁止翻供": [
+        "estoppel",
+        0.9
+    ],
+    "以及其他人": [
+        "et al.",
+        0.6
+    ],
+    "以下及下列": [
+        "et seq.",
+        0.5
+    ],
+    "及妻子": [
+        "et ux",
+        0.4
+    ],
+    "欧洲人权委员会": [
+        "European Commission for Human Rights",
+        0.8
+    ],
+    "欧洲法院": [
+        "European Court of Justice",
+        0.9
+    ],
+    "安乐死": [
+        "mercy killing",
+        0.9
+    ],
+    "逃避": [
+        "evade",
+        0.8
+    ],
+    "同一日期": [
+        "even date",
+        0.4
+    ],
+    "证据": [
+        "proof",
+        0.9
+    ],
+    "证据听证": [
+        "evidentiary motion hearing",
+        0.8
+    ],
+    "讯问": [
+        "interrogation",
+        0.8
+    ],
+    "审问": [
+        "examine",
+        0.8
+    ],
+    "反对": [
+        "objection",
+        0.9
+    ],
+    "超额保释金": [
+        "excessive bail",
+        0.9
+    ],
+    "排除": [
+        "strike",
+        0.9
+    ],
+    "拒绝": [
+        "Refusal",
+        0.6
+    ],
+    "证据排除原则": [
+        "exclusionary rule",
+        0.9
+    ],
+    "开脱": [
+        "exculpate",
+        0.8
+    ],
+    "可原谅的疏忽": [
+        "excusable neglect",
+        0.7
+    ],
+    "由契约引起的": [
+        "ex contractu",
+        0.8
+    ],
+    "根据侵权行为诉讼": [
+        "ex delicto",
+        0.8
+    ],
+    "实行": [
+        "execute",
+        0.9
+    ],
+    "已履行的": [
+        "executed",
+        0.8
+    ],
+    "判决后补救": [
+        "execution",
+        0.9
+    ],
+    "行刑者": [
+        "executioner",
+        0.5
+    ],
+    "文件生效手续": [
+        "execution of an instrument",
+        0.8
+    ],
+    "秘密会议": [
+        "executive session",
+        0.6
+    ],
+    "遗嘱执行人": [
+        "executor/executrix",
+        0.8
+    ],
+    "尚未履行的": [
+        "executory",
+        0.7
+    ],
+    "豁免": [
+        "Remission",
+        0.8
+    ],
+    "警戒性的": [
+        "exemplary",
+        0.7
+    ],
+    "惩罚性赔偿": [
+        "exemplary damages",
+        0.9
+    ],
+    "存活配偶财产": [
+        "exempt property",
+        0.8
+    ],
+    "物证": [
+        "real evidence",
+        0.9
+    ],
+    "紧急情况": [
+        "exigent circumstances",
+        0.9
+    ],
+    "使免罪": [
+        "exonerate",
+        0.9
+    ],
+    "单方面": [
+        "ex parte",
+        0.9
+    ],
+    "单方联系": [
+        "ex parte communication",
+        0.9
+    ],
+    "单方禁令": [
+        "ex parte injunction",
+        0.9
+    ],
+    "单方申请": [
+        "ex parte motion",
+        0.8
+    ],
+    "单方命令": [
+        "ex parte order",
+        0.9
+    ],
+    "专家证人": [
+        "expert witness",
+        0.8
+    ],
+    "有追溯力的法律": [
+        "ex post facto",
+        1.0
+    ],
+    "明示质量保证": [
+        "express warranty",
+        0.8
+    ],
+    "没收财产": [
+        "expropriate",
+        0.9
+    ],
+    "合法销毁": [
+        "expunge",
+        0.8
+    ],
+    "勒索": [
+        "extortion",
+        0.9
+    ],
+    "可引渡的": [
+        "extraditable",
+        0.9
+    ],
+    "引渡": [
+        "Rendition",
+        0.8
+    ],
+    "引渡程序": [
+        "extradition",
+        0.9
+    ],
+    "非经法律许可的": [
+        "extrajudicial",
+        0.8
+    ],
+    "不受法律支配的": [
+        "extralegal",
+        0.6
+    ],
+    "治外法权的": [
+        "extraterritorial",
+        0.9
+    ],
+    "外来的": [
+        "extrinsic",
+        0.6
+    ],
+    "外在证据": [
+        "extrinsic evidence",
+        0.8
+    ],
+    "目击者": [
+        "eyewitness",
+        0.7
+    ],
+    "漠视交通处罚案": [
+        "FAC case",
+        0.7
+    ],
+    "票面价值": [
+        "face value",
+        0.6
+    ],
+    "帮助犯": [
+        "facilitation",
+        0.8
+    ],
+    "事实": [
+        "fact",
+        0.9
+    ],
+    "事实上": [
+        "facto",
+        0.7
+    ],
+    "公平评论": [
+        "fair comment",
+        0.7
+    ],
+    "合理证据优势": [
+        "fair preponderance",
+        0.9
+    ],
+    "正当使用": [
+        "fair use",
+        0.8
+    ],
+    "既成事实": [
+        "fait accompli",
+        0.6
+    ],
+    "非法拘留": [
+        "false arrest",
+        0.9
+    ],
+    "诈骗": [
+        "false pretenses",
+        0.9
+    ],
+    "家庭津贴": [
+        "family allowance",
+        0.6
+    ],
+    "巡回法庭家事庭": [
+        "family division of the circuit court",
+        0.7
+    ],
+    "漠视交通处置案": [
+        "FCJ case",
+        0.7
+    ],
+    "漠视违规停车案": [
+        "FCPV case",
+        0.7
+    ],
+    "服务费": [
+        "fees",
+        0.6
+    ],
+    "永久产权": [
+        "fee simple",
+        0.9
+    ],
+    "指定继承人不动产": [
+        "fee tail",
+        0.7
+    ],
+    "重罪犯": [
+        "felon",
+        0.9
+    ],
+    "重罪的": [
+        "felonious",
+        0.9
+    ],
+    "重罪": [
+        "felony",
+        0.9
+    ],
+    "已婚女子": [
+        "feme covert",
+        0.6
+    ],
+    "单身女子": [
+        "feme sole",
+        0.6
+    ],
+    "受托人": [
+        "trustee",
+        0.9
+    ],
+    "信托责任": [
+        "fiduciary duty",
+        0.9
+    ],
+    "强制执行令": [
+        "fieri facias",
+        0.8
+    ],
+    "第五修正案禁止自证其罪": [
+        "Fifth Amendment",
+        1.0
+    ],
+    "挑衅语言": [
+        "fighting words",
+        0.7
+    ],
+    "公开法庭审理": [
+        "filed in open court",
+        0.8
+    ],
+    "法律文件归档": [
+        "filing",
+        0.7
+    ],
+    "诉讼费": [
+        "filing fees",
+        0.6
+    ],
+    "终审裁定": [
+        "final order",
+        0.9
+    ],
+    "结论": [
+        "finding",
+        0.7
+    ],
+    "罚款": [
+        "penalty",
+        0.9
+    ],
+    "附属细则": [
+        "fine print",
+        0.6
+    ],
+    "固定报价": [
+        "firm offer",
+        0.7
+    ],
+    "首次出庭": [
+        "initial appearance",
+        0.8
+    ],
+    "一级犯罪": [
+        "first-degree",
+        0.9
+    ],
+    "先在权利优先原则": [
+        "First-in-Time Rule",
+        0.8
+    ],
+    "初犯": [
+        "first offender",
+        0.7
+    ],
+    "不动产附着物": [
+        "fixtures",
+        0.8
+    ],
+    "强行占有": [
+        "forcible entry and detainer",
+        0.8
+    ],
+    "取消赎回权": [
+        "foreclose",
+        0.9
+    ],
+    "丧失抵押品收回权": [
+        "foreclosure",
+        0.9
+    ],
+    "异州互惠执行判决": [
+        "foreign judgment",
+        0.8
+    ],
+    "异州有效法庭命令": [
+        "foreign support order",
+        0.8
+    ],
+    "陪审团主席": [
+        "foreperson",
+        0.7
+    ],
+    "法医的": [
+        "forensic",
+        0.8
+    ],
+    "法医鉴定中心": [
+        "forensic center",
+        0.7
+    ],
+    "法医学": [
+        "medical jurisprudence",
+        0.8
+    ],
+    "伪造": [
+        "forge",
+        0.9
+    ],
+    "伪造文件": [
+        "forgery",
+        0.9
+    ],
+    "庭审安排表": [
+        "formal calendar",
+        0.6
+    ],
+    "法庭": [
+        "forum",
+        0.8
+    ],
+    "法院不便原则": [
+        "forum non conveniens",
+        0.8
+    ],
+    "寄养家庭": [
+        "foster home",
+        0.7
+    ],
+    "担保": [
+        "guaranty",
+        0.8
+    ],
+    "监护人": [
+        "guardian",
+        0.9
+    ],
+    "法定监护人": [
+        "guardian ad litem",
+        0.9
+    ],
+    "乘客法则": [
+        "guest statute",
+        0.7
+    ],
+    "有罪的": [
+        "guilty",
+        0.9
+    ],
+    "枪支管理法": [
+        "gun control law",
+        0.8
+    ],
+    "人身保护权": [
+        "habeas corpus",
+        1.0
+    ],
+    "解叫答辩令": [
+        "habeas corpus ad respondenum",
+        0.8
+    ],
+    "解叫作证令": [
+        "habeas corpus ad testificandum",
+        0.8
+    ],
+    "契约转让条款": [
+        "habendum",
+        0.7
+    ],
+    "宜居性": [
+        "habitability",
+        0.6
+    ],
+    "黑客": [
+        "hack",
+        0.8
+    ],
+    "重返社会训练所": [
+        "halfway house",
+        0.6
+    ],
+    "幻觉": [
+        "hallucination",
+        0.6
+    ],
+    "骚扰罪": [
+        "harassment",
+        0.9
+    ],
+    "无害过错": [
+        "harmless error",
+        0.8
+    ],
+    "批注": [
+        "headnote",
+        0.6
+    ],
+    "听审": [
+        "hear",
+        0.7
+    ],
+    "听证会": [
+        "hearing",
+        0.8
+    ],
+    "传闻证据": [
+        "hearsay",
+        0.9
+    ],
+    "继承人": [
+        "successor",
+        0.8
+    ],
+    "女继承人": [
+        "heiress",
+        0.7
+    ],
+    "可继承财产": [
+        "hereditament",
+        0.8
+    ],
+    "以下": [
+        "infra",
+        0.6
+    ],
+    "以上": [
+        "hereinbefore",
+        0.6
+    ],
+    "可继承的": [
+        "inheritable",
+        0.8
+    ],
+    "高等法院": [
+        "superior court",
+        0.9
+    ],
+    "高级法院": [
+        "higher court",
+        0.8
+    ],
+    "公海": [
+        "mare liberum",
+        0.6
+    ],
+    "劫持": [
+        "hijacking",
+        0.9
+    ],
+    "肇事逃逸法则": [
+        "hit-and-run statutes",
+        0.9
+    ],
+    "拘留": [
+        "hold",
+        0.9
+    ],
+    "控股公司": [
+        "holding company",
+        0.7
+    ],
+    "预防诉讼": [
+        "holdup suit",
+        0.7
+    ],
+    "亲笔遗嘱": [
+        "holographic will",
+        0.9
+    ],
+    "家宅": [
+        "messuage",
+        0.6
+    ],
+    "杀人行为": [
+        "homicide",
+        0.9
+    ],
+    "阁下": [
+        "honor",
+        0.6
+    ],
+    "法学基础教科书": [
+        "hornbook",
+        0.6
+    ],
+    "基本法": [
+        "organic law",
+        1.0
+    ],
+    "恶意占有": [
+        "hostile possession",
+        0.8
+    ],
+    "恶意证人": [
+        "hostile witness",
+        0.8
+    ],
+    "软禁": [
+        "house arrest",
+        0.8
+    ],
+    "入室盗窃": [
+        "housebreaking",
+        0.9
+    ],
+    "悬而不决的陪审团": [
+        "hung jury",
+        0.8
+    ],
+    "抵押": [
+        "hypothecate",
+        0.9
+    ],
+    "假设性问题": [
+        "hypothetical question",
+        0.7
+    ],
+    "出处同上": [
+        "ib./ibid.",
+        0.6
+    ],
+    "同前": [
+        "id.",
+        0.6
+    ],
+    "身份盗窃": [
+        "identity theft/fraud",
+        0.9
+    ],
+    "即": [
+        "i.e.",
+        0.6
+    ],
+    "不懂法律非借口": [
+        "ignorantia legis non excusat",
+        0.8
+    ],
+    "不合法的": [
+        "illegal",
+        0.9
+    ],
+    "法律不容的": [
+        "illegitimate",
+        0.8
+    ],
+    "非婚生孩子": [
+        "illegitimate child",
+        0.7
+    ],
+    "违禁的": [
+        "illicit",
+        0.8
+    ],
+    "虚假承诺": [
+        "illusory promise",
+        0.8
+    ],
+    "移民": [
+        "immigration",
+        0.7
+    ],
+    "固定的": [
+        "immovable",
+        0.7
+    ],
+    "挑选陪审团": [
+        "impanel",
+        0.8
+    ],
+    "质疑证人": [
+        "impeachment of witness",
+        0.8
+    ],
+    "弹劾": [
+        "impeach",
+        0.9
+    ],
+    "障碍": [
+        "impediment",
+        0.7
+    ],
+    "不完全义务": [
+        "imperfect obligation",
+        0.7
+    ],
+    "引入第三方诉讼": [
+        "impleader",
+        0.8
+    ],
+    "默示同意": [
+        "implied consent",
+        0.9
+    ],
+    "默示契约": [
+        "implied contract",
+        0.9
+    ],
+    "默示质量保证": [
+        "implied warranty of merchantability",
+        0.9
+    ],
+    "牵连过失": [
+        "imputed negligence",
+        0.8
+    ],
+    "悬案": [
+        "inactive case",
+        0.7
+    ],
+    "不可采纳的": [
+        "inadmissible",
+        0.9
+    ],
+    "不可转让的": [
+        "inalienable",
+        0.9
+    ],
+    "秘密听证": [
+        "in camera",
+        0.8
+    ],
+    "剥夺法律能力": [
+        "incapacitate",
+        0.9
+    ],
+    "无行为能力": [
+        "incapacity",
+        0.9
+    ],
+    "监禁": [
+        "incarceration",
+        0.9
+    ],
+    "乱伦": [
+        "incest",
+        0.9
+    ],
+    "乱伦的": [
+        "incestuous",
+        0.9
+    ],
+    "未完成犯罪": [
+        "inchoate",
+        0.8
+    ],
+    "附带条件": [
+        "incident",
+        0.7
+    ],
+    "所有权附带权利": [
+        "incident of ownership",
+        0.8
+    ],
+    "围栏地界": [
+        "inclosure",
+        0.6
+    ],
+    "不称职的": [
+        "incompetent",
+        0.7
+    ],
+    "无效证据": [
+        "incompetent evidence",
+        0.8
+    ],
+    "扣薪命令": [
+        "income withholding order",
+        0.8
+    ],
+    "法庭不便原则": [
+        "inconvenient forum",
+        0.8
+    ],
+    "成立公司": [
+        "incorporate",
+        0.9
+    ],
+    "无形的": [
+        "incorporeal",
+        0.7
+    ],
+    "归罪": [
+        "incriminate",
+        0.9
+    ],
+    "不可救药的": [
+        "incorrigible",
+        0.6
+    ],
+    "侵害": [
+        "infringement",
+        0.9
+    ],
+    "猥亵": [
+        "indecency",
+        0.9
+    ],
+    "性侵犯": [
+        "indecent assault",
+        0.9
+    ],
+    "露阴罪": [
+        "indecent exposure",
+        0.9
+    ],
+    "不可撤销的": [
+        "indefeasible",
+        0.9
+    ],
+    "赔偿": [
+        "indemnify",
+        0.9
+    ],
+    "契约": [
+        "stipulation",
+        0.9
+    ],
+    "私人遗产代表": [
+        "independent personal representative",
+        0.8
+    ],
+    "不定刑期": [
+        "indeterminate",
+        0.8
+    ],
+    "表征": [
+        "indicia",
+        0.7
+    ],
+    "起诉": [
+        "sue",
+        0.9
+    ],
+    "可起诉的": [
+        "indictable",
+        0.9
+    ],
+    "贫困的": [
+        "indigent",
+        0.7
+    ],
+    "侮辱": [
+        "indignity",
+        0.8
+    ],
+    "不可或缺的": [
+        "indispensable",
+        0.7
+    ],
+    "关键证据": [
+        "indispensable evidence",
+        0.9
+    ],
+    "必要诉讼方": [
+        "indispensable party",
+        0.8
+    ],
+    "被背书人": [
+        "indorsee",
+        0.8
+    ],
+    "背书人": [
+        "indorser",
+        0.8
+    ],
+    "劝诱签约": [
+        "inducement",
+        0.7
+    ],
+    "被褫夺公权的": [
+        "infamous",
+        0.6
+    ],
+    "丑行罪": [
+        "infamous crime",
+        0.9
+    ],
+    "未成年期": [
+        "infancy",
+        0.8
+    ],
+    "未成年人": [
+        "minor",
+        0.9
+    ],
+    "杀婴罪": [
+        "infanticide",
+        0.9
+    ],
+    "推理": [
+        "inference",
+        0.7
+    ],
+    "下级法院": [
+        "lower court",
+        0.8
+    ],
+    "初级法院": [
+        "inferior court",
+        0.7
+    ],
+    "体弱者": [
+        "infirm",
+        0.6
+    ],
+    "现行犯": [
+        "in flagrante delicto",
+        0.9
+    ],
+    "影响": [
+        "influence",
+        0.7
+    ],
+    "非正式听证": [
+        "informal hearing",
+        0.7
+    ],
+    "告发者": [
+        "informer",
+        0.7
+    ],
+    "诉讼救济": [
+        "in forma pauperis",
+        0.8
+    ],
+    "公诉书": [
+        "information",
+        0.9
+    ],
+    "违犯": [
+        "infraction",
+        0.8
+    ],
+    "存在": [
+        "inhere",
+        0.6
+    ],
+    "固有的": [
+        "inherent",
+        0.7
+    ],
+    "继承": [
+        "succession",
+        0.9
+    ],
+    "继承物": [
+        "inheritance",
+        0.9
+    ],
+    "立法提案权": [
+        "initiative",
+        0.7
+    ],
+    "强制令": [
+        "injunction",
+        0.9
+    ],
+    "永久禁令": [
+        "permanent injunction",
+        0.9
+    ],
+    "暂时禁令": [
+        "temporary restraining order",
+        0.95
+    ],
+    "伤害的": [
+        "injurious",
+        0.7
+    ],
+    "受伤": [
+        "injury",
+        0.9
+    ],
+    "同住犯人": [
+        "inmate",
+        0.7
+    ],
+    "无罪的": [
+        "innocent",
+        0.9
+    ],
+    "律师学院": [
+        "Inns of Court",
+        0.6
+    ],
+    "暗讽": [
+        "innuendo",
+        0.7
+    ],
+    "永远地": [
+        "in perpetuity",
+        0.8
+    ],
+    "对人诉讼": [
+        "in personam",
+        0.8
+    ],
+    "审讯": [
+        "inquest",
+        0.8
+    ],
+    "调查": [
+        "inquisition",
+        0.7
+    ],
+    "审判官似的": [
+        "inquisitorial",
+        0.6
+    ],
+    "关于": [
+        "in re",
+        0.6
+    ],
+    "对物诉讼": [
+        "in rem",
+        0.8
+    ],
+    "精神错乱": [
+        "insanity",
+        0.9
+    ],
+    "内部交易": [
+        "insider trading",
+        0.9
+    ],
+    "无力偿付": [
+        "insolvency",
+        0.9
+    ],
+    "安全搜查": [
+        "inspectorial search",
+        0.7
+    ],
+    "分期付款": [
+        "installment",
+        0.7
+    ],
+    "分期付款合同": [
+        "installment contract",
+        0.8
+    ],
+    "指导": [
+        "instruct",
+        0.7
+    ],
+    "陪审团指导": [
+        "jury instructions",
+        0.9
+    ],
+    "法律文件": [
+        "instrument",
+        0.8
+    ],
+    "保险单": [
+        "insurance policy",
+        0.8
+    ],
+    "被保险人": [
+        "insured",
+        0.8
+    ],
+    "叛乱": [
+        "insurrection",
+        0.9
+    ],
+    "无形资产": [
+        "intangible assets",
+        0.7
+    ],
+    "知识产权": [
+        "intellectual property",
+        0.9
+    ],
+    "意图": [
+        "intent",
+        0.9
+    ],
+    "书面质询": [
+        "interrogatories",
+        0.8
+    ],
+    "介入诉讼": [
+        "intervention",
+        0.7
+    ],
+    "生前有效": [
+        "inter vivos",
+        0.7
+    ],
+    "利益": [
+        "interest",
+        0.8
+    ],
+    "利害关系方": [
+        "interested party",
+        0.8
+    ],
+    "利害关系人": [
+        "privy",
+        0.7
+    ],
+    "临时保释金": [
+        "interim bond",
+        0.7
+    ],
+    "暂时法令": [
+        "interim order",
+        0.8
+    ],
+    "非最终判决": [
+        "interlocutory",
+        0.7
+    ],
+    "中间上诉": [
+        "interlocutory appeal",
+        0.8
+    ],
+    "国际法院": [
+        "International Court of Justice",
+        0.7
+    ],
+    "国际法": [
+        "law of nations",
+        0.8
+    ],
+    "交互诉讼": [
+        "interpleader",
+        0.7
+    ],
+    "州际的": [
+        "interstate",
+        0.7
+    ],
+    "州际贸易": [
+        "interstate commerce",
+        0.8
+    ],
+    "州际扣薪令": [
+        "interstate income withholding order",
+        0.8
+    ],
+    "干涉": [
+        "intervene",
+        0.7
+    ],
+    "无遗嘱的": [
+        "intestate",
+        0.8
+    ],
+    "无遗嘱继承": [
+        "intestate succession",
+        0.8
+    ],
+    "中毒": [
+        "intoxication",
+        0.8
+    ],
+    "固有证据": [
+        "intrinsic evidence",
+        0.8
+    ],
+    "生效": [
+        "inure",
+        0.7
+    ],
+    "无效的": [
+        "void",
+        1.0
+    ],
+    "侵犯隐私": [
+        "invasion of privacy",
+        0.9
+    ],
+    "财产清单": [
+        "inventory",
+        0.7
+    ],
+    "遗产检验费": [
+        "inventory fee",
+        0.6
+    ],
+    "调查权": [
+        "investigatory powers",
+        0.8
+    ],
+    "被邀请者": [
+        "invitee",
+        0.7
+    ],
+    "调用规则": [
+        "invoke the rule",
+        0.8
+    ],
+    "非自愿的": [
+        "involuntary",
+        0.8
+    ],
+    "根据事实本身": [
+        "ipso facto",
+        0.7
+    ],
+    "根据法律本身": [
+        "ipso jure",
+        0.7
+    ],
+    "不可撤销信托": [
+        "irrevocable trust",
+        0.9
+    ],
+    "子嗣": [
+        "issue",
+        0.8
+    ],
+    "争点排除": [
+        "issue preclusion",
+        0.9
+    ],
+    "看守所": [
+        "jail",
+        0.7
+    ],
+    "无名女性原告": [
+        "Jane Doe",
+        0.6
+    ],
+    "刑事危险处境": [
+        "jeopardy",
+        0.9
+    ],
+    "司法信息中心": [
+        "judicial information services (JIS)",
+        0.6
+    ],
+    "反向裁决": [
+        "non obstante veredicto",
+        0.9
+    ],
+    "无名男性原告": [
+        "John Doe",
+        0.6
+    ],
+    "联合诉讼": [
+        "joinder",
+        0.8
+    ],
+    "共同的": [
+        "joint",
+        0.7
+    ],
+    "连带责任": [
+        "joint liability",
+        0.9
+    ],
+    "共同监护权": [
+        "joint custody",
+        0.8
+    ],
+    "合资企业": [
+        "joint enterprise",
+        0.7
+    ],
+    "共同共有": [
+        "joint tenancy",
+        0.8
+    ],
+    "共同侵权人": [
+        "joint tortfeasors",
+        0.8
+    ],
+    "寡妇遗产": [
+        "jointure",
+        0.6
+    ],
+    "治安法官": [
+        "justice of the peace",
+        0.7
+    ],
+    "军事法官": [
+        "judge advocate",
+        0.7
+    ],
+    "军法署署长": [
+        "judge advocate general (JAG)",
+        0.7
+    ],
+    "法官制定的": [
+        "judge-made",
+        0.8
+    ],
+    "法官协会": [
+        "judges' associations",
+        0.6
+    ],
+    "反向判决": [
+        "Judgment N.O.V.",
+        0.9
+    ],
+    "抗判决性": [
+        "judgment proof",
+        0.7
+    ],
+    "司法体系": [
+        "judiciary",
+        0.8
+    ],
+    "司法的": [
+        "juridical",
+        0.7
+    ],
+    "司法活动报告": [
+        "judicial activity report",
+        0.6
+    ],
+    "司法豁免权": [
+        "judicial immunity",
+        0.9
+    ],
+    "司法认知": [
+        "judicial notice",
+        0.9
+    ],
+    "司法克制": [
+        "judicial restraint",
+        0.7
+    ],
+    "司法审查": [
+        "judicial review",
+        0.9
+    ],
+    "法定分居": [
+        "judicial separation",
+        0.8
+    ],
+    "司法职位督察委员会": [
+        "judicial tenure commission",
+        0.6
+    ],
+    "弃保潜逃": [
+        "jump bail",
+        0.8
+    ],
+    "法律上的": [
+        "legal",
+        0.6
+    ],
+    "宣誓证明": [
+        "jurat",
+        0.7
+    ],
+    "管辖权": [
+        "jurisdiction",
+        0.9
+    ],
+    "法学博士": [
+        "juris doctor (J.D.)",
+        0.6
+    ],
+    "法理学": [
+        "jurisprudence",
+        0.7
+    ],
+    "法学家": [
+        "jurist",
+        0.7
+    ],
+    "陪审员": [
+        "venireman",
+        0.7
+    ],
+    "无资格陪审员": [
+        "juror disqualified",
+        0.7
+    ],
+    "陪审团": [
+        "jury",
+        0.9
+    ],
+    "候选陪审团": [
+        "jury array",
+        0.7
+    ],
+    "陪审团席": [
+        "jury box",
+        0.6
+    ],
+    "陪审团审查官": [
+        "jury commissioner",
+        0.6
+    ],
+    "候选陪审员": [
+        "jury panel",
+        0.7
+    ],
+    "陪审团表决": [
+        "jury polling",
+        0.7
+    ],
+    "陪审团审判": [
+        "jury trial",
+        0.9
+    ],
+    "国际法准则": [
+        "jus cogens",
+        0.8
+    ],
+    "公平补偿": [
+        "just compensation",
+        0.9
+    ],
+    "正义": [
+        "justice",
+        0.8
+    ],
+    "可司法裁决的": [
+        "justiciable",
+        0.8
+    ],
+    "正当杀人": [
+        "justifiable homicide",
+        0.9
+    ],
+    "正当理由": [
+        "justification",
+        0.8
+    ],
+    "青少年法典": [
+        "juvenile code",
+        0.7
+    ],
+    "少年法庭": [
+        "juvenile court",
+        0.8
+    ],
+    "少年犯罪": [
+        "juvenile delinquency",
+        0.8
+    ],
+    "少年犯诉讼程序": [
+        "juvenile delinquency proceedings",
+        0.8
+    ],
+    "少年犯": [
+        "juvenile offender",
+        0.8
+    ],
+    "非法法庭": [
+        "kangaroo court",
+        0.6
+    ],
+    "王室律师": [
+        "king's counsel",
+        0.6
+    ],
+    "亲属": [
+        "kin",
+        0.7
+    ],
+    "英国高等法院": [
+        "king's bench",
+        0.6
+    ],
+    "爱尔兰律师培训中心": [
+        "king's inns",
+        0.6
+    ],
+    "自保原则": [
+        "knock-for-knock",
+        0.7
+    ],
+    "故意违法": [
+        "knowingly and willfully",
+        0.9
+    ],
+    "懈怠": [
+        "laches",
+        0.8
+    ],
+    "土地契约": [
+        "land contract",
+        0.8
+    ],
+    "失效": [
+        "lapse",
+        0.7
+    ],
+    "失效赠与": [
+        "lapsed gift",
+        0.7
+    ],
+    "盗窃罪": [
+        "larceny",
+        0.9
+    ],
+    "紧邻先行词原理": [
+        "last antecedent doctrine",
+        0.7
+    ],
+    "最后避损机会": [
+        "last clear chance",
+        0.8
+    ],
+    "潜在歧义": [
+        "latent ambiguity",
+        0.7
+    ],
+    "法律实施信息网": [
+        "LEIN network",
+        0.6
+    ],
+    "合法的": [
+        "sound",
+        0.8
+    ],
+    "立法者": [
+        "lawmaker",
+        0.7
+    ],
+    "执法者": [
+        "lawman",
+        0.6
+    ],
+    "律师事务所": [
+        "law office",
+        0.6
+    ],
+    "财产继承法": [
+        "law of succession",
+        0.8
+    ],
+    "法律助理": [
+        "law clerks",
+        0.6
+    ],
+    "普通证人": [
+        "lay witness",
+        0.7
+    ],
+    "例案": [
+        "leading case",
+        0.7
+    ],
+    "诱导性提问": [
+        "leading question",
+        0.9
+    ],
+    "租约": [
+        "lease",
+        0.8
+    ],
+    "反租": [
+        "leaseback",
+        0.7
+    ],
+    "租赁物权": [
+        "leasehold",
+        0.8
+    ],
+    "法庭许可": [
+        "leave of court",
+        0.9
+    ],
+    "法律援助": [
+        "legal aid",
+        0.8
+    ],
+    "法定资格": [
+        "legal capacity",
+        0.9
+    ],
+    "法律损害": [
+        "legal detriment",
+        0.9
+    ],
+    "精干律师": [
+        "legal eagle",
+        0.5
+    ],
+    "法律术语": [
+        "legalese",
+        0.6
+    ],
+    "法律虚拟": [
+        "legal fiction",
+        0.8
+    ],
+    "合法性": [
+        "legality",
+        0.9
+    ],
+    "无行为能力人": [
+        "legally incapacitated person (LIP)",
+        0.9
+    ],
+    "合法永久居民": [
+        "legal permanent resident (LPR)",
+        0.8
+    ],
+    "合法分居": [
+        "legal separation",
+        0.8
+    ],
+    "法定货币": [
+        "legal tender",
+        0.9
+    ],
+    "遗产受赠人": [
+        "legatee",
+        0.8
+    ],
+    "遗赠者": [
+        "legator",
+        0.8
+    ],
+    "立法": [
+        "legislation",
+        0.9
+    ],
+    "立法的": [
+        "legislative",
+        0.8
+    ],
+    "立法委员": [
+        "legislator",
+        0.7
+    ],
+    "立法机关": [
+        "legislature",
+        0.9
+    ],
+    "使合法": [
+        "legitimize",
+        0.8
+    ],
+    "宽大处理": [
+        "leniency",
+        0.7
+    ],
+    "承租人": [
+        "tenant",
+        0.7
+    ],
+    "出租人": [
+        "lessor",
+        0.8
+    ],
+    "出租": [
+        "let",
+        0.6
+    ],
+    "信用证": [
+        "letter of credit",
+        0.7
+    ],
+    "意向书": [
+        "letter of intent",
+        0.7
+    ],
+    "遗产管理证书": [
+        "letters of administration",
+        0.9
+    ],
+    "专利特许证": [
+        "letters patent",
+        0.8
+    ],
+    "司法协助函": [
+        "letters rogatory",
+        0.9
+    ],
+    "遗嘱执行人授权书": [
+        "letters testamentary",
+        0.9
+    ],
+    "征收": [
+        "levy",
+        0.8
+    ],
+    "淫荡": [
+        "lewdness",
+        0.7
+    ],
+    "所在地法": [
+        "lex fori",
+        0.9
+    ],
+    "地方法": [
+        "lex loci",
+        0.9
+    ],
+    "有法律责任的": [
+        "liable",
+        0.9
+    ],
+    "书面诽谤": [
+        "libel",
+        0.9
+    ],
+    "诽谤性的": [
+        "libelous",
+        0.8
+    ],
+    "登记册": [
+        "liber",
+        0.6
+    ],
+    "自由": [
+        "liberty",
+        1.0
+    ],
+    "许可": [
+        "license",
+        0.8
+    ],
+    "有执照的": [
+        "licensed",
+        0.7
+    ],
+    "执照持有者": [
+        "licensee",
+        0.7
+    ],
+    "可立案": [
+        "lie",
+        0.9
+    ],
+    "测谎仪": [
+        "lie detector",
+        0.6
+    ],
+    "留置权": [
+        "lien",
+        0.9
+    ],
+    "终身产权": [
+        "life estate",
+        0.8
+    ],
+    "预期寿命": [
+        "life expectancy",
+        0.6
+    ],
+    "终身利益": [
+        "life interest",
+        0.7
+    ],
+    "终身受益人": [
+        "life tenant",
+        0.8
+    ],
+    "无期徒刑": [
+        "life sentence",
+        0.9
+    ],
+    "限制": [
+        "limitation",
+        0.9
+    ],
+    "有限监护人": [
+        "partial guardian",
+        0.7
+    ],
+    "有限管辖权": [
+        "limited jurisdiction",
+        0.9
+    ],
+    "有限责任": [
+        "limited liability",
+        0.9
+    ],
+    "血统": [
+        "lineage",
+        0.5
+    ],
+    "直系的": [
+        "lineal",
+        0.6
+    ],
+    "列队辨认": [
+        "lineup",
+        0.7
+    ],
+    "清算": [
+        "liquidate",
+        0.8
+    ],
+    "约定违约金": [
+        "liquidated damages",
+        0.9
+    ],
+    "未决诉讼": [
+        "lis pendens",
+        0.9
+    ],
+    "上市股票": [
+        "listed stock",
+        0.6
+    ],
+    "遗稿保管人": [
+        "literary executor",
+        0.7
+    ],
+    "诉讼当事人": [
+        "litigant",
+        0.8
+    ],
+    "提出诉讼": [
+        "litigate",
+        0.9
+    ],
+    "好诉讼的": [
+        "litigious",
+        0.6
+    ],
+    "生前信托": [
+        "living trust",
+        0.8
+    ],
+    "生前遗嘱": [
+        "living will",
+        0.8
+    ],
+    "法学学士": [
+        "LL.B.",
+        0.6
+    ],
+    "法学博士（荣誉学位）": [
+        "LL.D.",
+        0.6
+    ],
+    "法学硕士": [
+        "LL.M.",
+        0.6
+    ],
+    "放高利贷": [
+        "loansharking",
+        0.9
+    ],
+    "地方法院规则": [
+        "local court rules",
+        0.7
+    ],
+    "一级防范禁闭": [
+        "lockdown",
+        0.5
+    ],
+    "所在地": [
+        "locus",
+        0.8
+    ],
+    "犯罪地点": [
+        "locus delicti",
+        0.9
+    ],
+    "闲逛": [
+        "loiter",
+        0.7
+    ],
+    "长臂法": [
+        "long arm statutes",
+        0.9
+    ],
+    "配偶权利丧失": [
+        "loss of consortium",
+        0.8
+    ],
+    "彩票": [
+        "lottery",
+        0.6
+    ],
+    "法学院入学考试": [
+        "LSAT",
+        0.4
+    ],
+    "一次性付费": [
+        "lump-sum payment",
+        0.6
+    ],
+    "私刑处死": [
+        "lynch",
+        0.9
+    ],
+    "治安官": [
+        "sheriff",
+        0.8
+    ],
+    "投递生效原则": [
+        "mail box rule",
+        0.9
+    ],
+    "致残": [
+        "maim",
+        0.9
+    ],
+    "赡养费": [
+        "maintenance",
+        0.9
+    ],
+    "法定年龄": [
+        "majority",
+        0.9
+    ],
+    "判决书": [
+        "majority opinion",
+        0.8
+    ],
+    "医疗过失": [
+        "mala praxis",
+        0.9
+    ],
+    "法律禁止的": [
+        "mala prohibita",
+        0.8
+    ],
+    "不法行为": [
+        "misfeasance",
+        0.8
+    ],
+    "恶意": [
+        "malice",
+        0.9
+    ],
+    "恶意预谋": [
+        "malice aforethought",
+        0.9
+    ],
+    "恶意诉讼": [
+        "malicious prosecution",
+        0.9
+    ],
+    "非法拘捕": [
+        "malicious arrest",
+        0.9
+    ],
+    "玩忽职守": [
+        "misconduct in office",
+        0.9
+    ],
+    "书面训令": [
+        "mandamus",
+        0.9
+    ],
+    "法院授权": [
+        "mandate",
+        0.8
+    ],
+    "强制的": [
+        "peremptory",
+        0.9
+    ],
+    "非预谋杀人罪": [
+        "manslaughter",
+        0.9
+    ],
+    "领海": [
+        "territorial waters",
+        0.8
+    ],
+    "配偶扣除额": [
+        "marital deduction",
+        0.8
+    ],
+    "夫妻不动产": [
+        "marital estate",
+        0.8
+    ],
+    "婚姻": [
+        "marriage",
+        0.9
+    ],
+    "结婚证书": [
+        "marriage license",
+        0.8
+    ],
+    "结婚": [
+        "marry",
+        0.7
+    ],
+    "执法官": [
+        "marshal",
+        0.7
+    ],
+    "戒严法": [
+        "martial law",
+        0.9
+    ],
+    "法庭官": [
+        "master",
+        0.7
+    ],
+    "衡平法院助理": [
+        "master in chancery",
+        0.6
+    ],
+    "重要的": [
+        "material",
+        0.9
+    ],
+    "实质性变更": [
+        "material alteration",
+        0.9
+    ],
+    "实质证据": [
+        "material evidence",
+        0.9
+    ],
+    "实质性争论点": [
+        "material issue",
+        0.8
+    ],
+    "母性的": [
+        "maternal",
+        0.6
+    ],
+    "弑母罪": [
+        "matricide",
+        0.9
+    ],
+    "到期日": [
+        "maturity",
+        0.7
+    ],
+    "准则": [
+        "maxims",
+        0.7
+    ],
+    "伤人致残罪": [
+        "mayhem",
+        0.9
+    ],
+    "麦克纳博-玛罗琳规则": [
+        "McNabb-Mallory Rule",
+        0.8
+    ],
+    "议案": [
+        "measure",
+        0.7
+    ],
+    "技工留置权": [
+        "mechanic's lien",
+        0.7
+    ],
+    "意见一致": [
+        "meeting of the minds",
+        0.9
+    ],
+    "书面请愿": [
+        "memorialized",
+        0.7
+    ],
+    "犯罪意图": [
+        "mens rea",
+        0.9
+    ],
+    "精神痛苦": [
+        "mental anguish",
+        0.8
+    ],
+    "精神虐待": [
+        "mental cruelty",
+        0.8
+    ],
+    "心理健康法典": [
+        "mental health code",
+        0.7
+    ],
+    "精神病": [
+        "mental illness",
+        0.8
+    ],
+    "弱智": [
+        "mentally retarded",
+        0.6
+    ],
+    "商人": [
+        "merchant",
+        0.7
+    ],
+    "合并条款": [
+        "merger clause",
+        0.8
+    ],
+    "值得称赞的": [
+        "meritorious",
+        0.7
+    ],
+    "法律依据": [
+        "merits",
+        0.8
+    ],
+    "中间的": [
+        "mesne",
+        0.6
+    ],
+    "中间利益": [
+        "mesne profits",
+        0.7
+    ],
+    "四至": [
+        "metes and bounds",
+        0.7
+    ],
+    "军法": [
+        "military law",
+        0.8
+    ],
+    "最低工资": [
+        "minimum wage",
+        0.7
+    ],
+    "行政性的": [
+        "ministerial",
+        0.6
+    ],
+    "轻微犯罪": [
+        "minor offense",
+        0.7
+    ],
+    "米兰达原则": [
+        "Miranda Rule",
+        1.0
+    ],
+    "米兰达警告": [
+        "Miranda Warnings",
+        1.0
+    ],
+    "意外致死": [
+        "misadventure",
+        0.7
+    ],
+    "审判不公": [
+        "miscarriage of justice",
+        0.9
+    ],
+    "损害": [
+        "mischief",
+        0.8
+    ],
+    "交付错误": [
+        "misdelivery",
+        0.7
+    ],
+    "行为不端者": [
+        "misdemeanant",
+        0.7
+    ],
+    "轻罪": [
+        "misdemeanor",
+        0.8
+    ],
+    "错误参与诉讼": [
+        "misjoinder",
+        0.7
+    ],
+    "遗忘物": [
+        "mislaid property",
+        0.7
+    ],
+    "写错姓名": [
+        "misnomer",
+        0.6
+    ],
+    "包庇罪行": [
+        "misprision",
+        0.8
+    ],
+    "不实表示": [
+        "misrepresentation",
+        0.9
+    ],
+    "无效审判": [
+        "mistrial",
+        0.9
+    ],
+    "可使罪行减轻的情节": [
+        "mitigating circumstances",
+        0.9
+    ],
+    "减轻处罚": [
+        "mitigation",
+        0.8
+    ],
+    "收押令": [
+        "mittimus",
+        0.8
+    ],
+    "一半": [
+        "moiety",
+        0.6
+    ],
+    "金钱支付判决": [
+        "money judgment",
+        0.8
+    ],
+    "一夫一妻制": [
+        "monogamy",
+        0.7
+    ],
+    "垄断": [
+        "monopoly",
+        0.8
+    ],
+    "虚拟诉讼": [
+        "moot",
+        0.7
+    ],
+    "未决案件": [
+        "sub judice",
+        0.9
+    ],
+    "模拟法庭": [
+        "moot court",
+        0.6
+    ],
+    "接近必然的可能性": [
+        "moral certainty",
+        0.7
+    ],
+    "道德败坏": [
+        "moral turpitude",
+        0.8
+    ],
+    "延缓": [
+        "moratorium",
+        0.7
+    ],
+    "抵押借款": [
+        "mortgage",
+        0.9
+    ],
+    "抵押贷款人": [
+        "mortgagee",
+        0.8
+    ],
+    "抵押借款人": [
+        "mortgagor",
+        0.9
+    ],
+    "（向法庭）申请": [
+        "motion",
+        0.9
+    ],
+    "庭审日历": [
+        "motions calendar",
+        0.7
+    ],
+    "证据免提申请": [
+        "motions in limine",
+        0.9
+    ],
+    "消除法庭记录的申请": [
+        "motion to expunge",
+        0.9
+    ],
+    "减刑申请": [
+        "motion to mitigate sentence",
+        0.9
+    ],
+    "封存记录申请": [
+        "motion to seal",
+        0.8
+    ],
+    "排他证据申请": [
+        "motions to suppress",
+        1.0
+    ],
+    "宣布无效申请": [
+        "motion to quash",
+        0.9
+    ],
+    "辩护律师": [
+        "mouthpiece",
+        0.5
+    ],
+    "活动的": [
+        "movable",
+        0.6
+    ],
+    "请求胜诉的人": [
+        "movant",
+        0.8
+    ],
+    "提议": [
+        "move",
+        0.8
+    ],
+    "罚金": [
+        "mulct",
+        0.7
+    ],
+    "混合诉讼": [
+        "multifarious suit",
+        0.7
+    ],
+    "重复诉讼": [
+        "multiplicity of actions",
+        0.8
+    ],
+    "市法院": [
+        "municipal court",
+        0.8
+    ],
+    "谋杀": [
+        "murder",
+        1.0
+    ],
+    "共同遗嘱": [
+        "mutual wills",
+        0.8
+    ],
+    "相互性": [
+        "mutuality",
+        0.7
+    ],
+    "亲生子女": [
+        "natural child",
+        0.8
+    ],
+    "已入籍公民": [
+        "naturalized citizen",
+        0.9
+    ],
+    "自然法": [
+        "natural law",
+        0.7
+    ],
+    "自然法理论": [
+        "natural law theory",
+        0.6
+    ],
+    "连锁违法": [
+        "necessarily included offense",
+        0.9
+    ],
+    "禁止出境令": [
+        "ne exeat",
+        0.9
+    ],
+    "否定的申辩": [
+        "negative averment",
+        0.8
+    ],
+    "带有肯定意味的否定": [
+        "negative pregnant",
+        0.7
+    ],
+    "忽视": [
+        "neglect",
+        0.8
+    ],
+    "虐待儿童听证": [
+        "neglect hearing",
+        0.9
+    ],
+    "疏忽的": [
+        "negligent",
+        0.8
+    ],
+    "可谈判的": [
+        "negotiable",
+        0.7
+    ],
+    "可流通票据": [
+        "negotiable instrument",
+        0.8
+    ],
+    "任何人不得凌驾于法律之上": [
+        "nemo est supra legis",
+        1.0
+    ],
+    "净资产": [
+        "net estate",
+        0.7
+    ],
+    "纯收入": [
+        "net income",
+        0.6
+    ],
+    "中立法": [
+        "neutrality laws",
+        0.7
+    ],
+    "诉讼代理人": [
+        "next friend",
+        0.8
+    ],
+    "近亲": [
+        "next of kin",
+        0.8
+    ],
+    "非最后的": [
+        "nisi",
+        0.7
+    ],
+    "民事诉讼初审": [
+        "nisi prius",
+        0.8
+    ],
+    "指控不成立": [
+        "no bill",
+        0.9
+    ],
+    "禁止接触令": [
+        "no contact order",
+        0.9
+    ],
+    "无争议条款": [
+        "no-contest clause",
+        0.8
+    ],
+    "无罪申诉": [
+        "nolo contendere",
+        0.9
+    ],
+    "不追究责任": [
+        "no fault",
+        0.8
+    ],
+    "无责任认定的": [
+        "no-fault proceedings",
+        0.7
+    ],
+    "强行闯入": [
+        "no-knock",
+        0.9
+    ],
+    "中止诉讼": [
+        "nol. pros.",
+        0.9
+    ],
+    "原告撤诉": [
+        "nolle prosequi",
+        0.9
+    ],
+    "名义上的当事人": [
+        "nominal party",
+        0.6
+    ],
+    "未出庭": [
+        "nonappearance",
+        0.8
+    ],
+    "不判死刑的谋杀罪": [
+        "non-capital murder",
+        0.9
+    ],
+    "心神丧失的": [
+        "non compos mentis",
+        0.9
+    ],
+    "无监护权父母": [
+        "non-custodial parent",
+        0.8
+    ],
+    "\"这不是我的契约\"": [
+        "non est factum",
+        0.9
+    ],
+    "非陪审团审判": [
+        "non jury trial",
+        0.8
+    ],
+    "无追索权": [
+        "nonrecourse",
+        0.7
+    ],
+    "没有送达": [
+        "non-service",
+        0.8
+    ],
+    "无法律行为能力": [
+        "non sui juris",
+        0.9
+    ],
+    "驳回起诉": [
+        "non-suit",
+        0.8
+    ],
+    "不履行抚养": [
+        "nonsupport",
+        0.8
+    ],
+    "不许争辩": [
+        "non vult",
+        0.7
+    ],
+    "无合理依据": [
+        "no probable cause",
+        0.9
+    ],
+    "无疾而终的民事诉讼": [
+        "no progress",
+        0.6
+    ],
+    "公证人": [
+        "notary",
+        0.7
+    ],
+    "上诉通知书": [
+        "notice of appeal",
+        0.9
+    ],
+    "听证通知": [
+        "notice of hearing",
+        0.8
+    ],
+    "未决诉讼公告": [
+        "notice of lis pendens",
+        0.9
+    ],
+    "要求出示文件通知": [
+        "notice to produce",
+        0.8
+    ],
+    "中止租赁并腾空通知": [
+        "notice to quit",
+        0.8
+    ],
+    "拘留通知书": [
+        "notification of parents",
+        0.7
+    ],
+    "但是裁决": [
+        "N.O.V.",
+        0.9
+    ],
+    "更新": [
+        "novation",
+        0.8
+    ],
+    "妨害行为": [
+        "nuisance",
+        0.8
+    ],
+    "法律上无效": [
+        "nullity",
+        0.9
+    ],
+    "口头遗嘱": [
+        "nuncupative will",
+        0.8
+    ],
+    "追溯既往令": [
+        "nunc pro tunc",
+        0.8
+    ],
+    "宣誓": [
+        "swear",
+        0.9
+    ],
+    "义务": [
+        "obligation",
+        0.9
+    ],
+    "淫秽的": [
+        "obscene",
+        0.8
+    ],
+    "淫秽": [
+        "obscenity",
+        0.8
+    ],
+    "故意阻碍的违法行为": [
+        "obstruct",
+        0.9
+    ],
+    "占有": [
+        "possession",
+        0.8
+    ],
+    "占有人": [
+        "occupant",
+        0.7
+    ],
+    "职业病": [
+        "occupational disease",
+        0.7
+    ],
+    "职业风险": [
+        "occupational hazard",
+        0.6
+    ],
+    "法律顾问": [
+        "of counsel",
+        0.7
+    ],
+    "针对未成年人的犯罪": [
+        "offense against child",
+        0.9
+    ],
+    "未成年人犯罪": [
+        "offense by child",
+        0.9
+    ],
+    "中央刑事法院": [
+        "old bailey",
+        0.7
+    ],
+    "要约": [
+        "offer",
+        0.9
+    ],
+    "受要约人": [
+        "offeree",
+        0.9
+    ],
+    "要约人": [
+        "offeror",
+        0.9
+    ],
+    "疏忽": [
+        "omission",
+        0.9
+    ],
+    "一天一审": [
+        "one day, one trial",
+        0.7
+    ],
+    "律师开场陈述": [
+        "opening statement",
+        0.7
+    ],
+    "判决理由": [
+        "opinion",
+        0.9
+    ],
+    "意见证据": [
+        "opinion evidence",
+        0.9
+    ],
+    "期权合约": [
+        "option contract",
+        0.8
+    ],
+    "口头辩论": [
+        "oral argument",
+        0.7
+    ],
+    "折磨": [
+        "ordeal",
+        0.6
+    ],
+    "命令": [
+        "order",
+        0.9
+    ],
+    "地方性法规": [
+        "ordinance",
+        0.8
+    ],
+    "最初审理权": [
+        "original jurisdiction",
+        0.9
+    ],
+    "集团犯罪": [
+        "organized crime",
+        0.9
+    ],
+    "逃犯": [
+        "outlaw",
+        0.7
+    ],
+    "不经法院": [
+        "out-of-court",
+        0.7
+    ],
+    "滥用议价权": [
+        "overreaching",
+        0.8
+    ],
+    "公开的行为": [
+        "overt act",
+        0.9
+    ],
+    "所有人": [
+        "owner",
+        0.8
+    ],
+    "所有权": [
+        "proprietary",
+        0.7
+    ],
+    "审判": [
+        "oyer",
+        0.6
+    ],
+    "挑选（倾向性成员）": [
+        "pack",
+        0.6
+    ],
+    "疼痛和痛苦": [
+        "pain and suffering",
+        0.8
+    ],
+    "分居扶养费": [
+        "palimony",
+        0.8
+    ],
+    "怂恿者": [
+        "pander",
+        0.9
+    ],
+    "全体陪审员": [
+        "panel",
+        0.9
+    ],
+    "账面利润": [
+        "paper profit",
+        0.6
+    ],
+    "律师助理": [
+        "paralegal",
+        0.6
+    ],
+    "最优先的所有权": [
+        "paramount title",
+        0.9
+    ],
+    "情人": [
+        "paramour",
+        0.6
+    ],
+    "赦免": [
+        "pardon",
+        0.9
+    ],
+    "政府监护": [
+        "parens patriae",
+        0.8
+    ],
+    "父母侵权责任": [
+        "parental liability",
+        0.9
+    ],
+    "与父母共处时间": [
+        "parenting time",
+        0.7
+    ],
+    "口头的": [
+        "parol",
+        0.9
+    ],
+    "口头证据规则": [
+        "parol evidence rule",
+        0.9
+    ],
+    "假释": [
+        "parole",
+        0.9
+    ],
+    "谋杀父母或其他近亲属": [
+        "parricide",
+        0.9
+    ],
+    "财产分割": [
+        "property settlement",
+        0.7
+    ],
+    "合作关系": [
+        "partnership",
+        0.8
+    ],
+    "一方": [
+        "party",
+        0.9
+    ],
+    "界墙": [
+        "party wall",
+        0.7
+    ],
+    "转移；通过；宣判": [
+        "pass",
+        0.9
+    ],
+    "专利": [
+        "patent",
+        0.9
+    ],
+    "专利权所有人": [
+        "patentee",
+        0.9
+    ],
+    "专利侵权": [
+        "patent infringement",
+        0.9
+    ],
+    "亲子鉴定诉讼": [
+        "paternity suit",
+        0.8
+    ],
+    "杀父": [
+        "patricide",
+        0.9
+    ],
+    "赞助": [
+        "patronage",
+        0.6
+    ],
+    "贫民": [
+        "pauper",
+        0.6
+    ],
+    "典当物": [
+        "pawn",
+        0.7
+    ],
+    "受款人": [
+        "payee",
+        0.8
+    ],
+    "和平拥有": [
+        "peaceable possession",
+        0.8
+    ],
+    "侵吞": [
+        "peculation",
+        0.9
+    ],
+    "刑事的": [
+        "penal",
+        0.9
+    ],
+    "刑事附带民事诉讼": [
+        "penal action",
+        0.9
+    ],
+    "刑事法律": [
+        "penal law",
+        0.9
+    ],
+    "处罚": [
+        "penalize",
+        0.9
+    ],
+    "处罚认定": [
+        "penalty assessment",
+        0.9
+    ],
+    "诉讼期间": [
+        "pendente lite",
+        0.7
+    ],
+    "人均": [
+        "per capita",
+        0.7
+    ],
+    "法庭一致通过": [
+        "per curiam",
+        0.8
+    ],
+    "无因回避": [
+        "peremptory challenge",
+        0.9
+    ],
+    "拘传票": [
+        "peremptory writ",
+        0.9
+    ],
+    "使……完善": [
+        "perfect",
+        0.7
+    ],
+    "执行": [
+        "performance",
+        0.8
+    ],
+    "履约保证书": [
+        "performance bond",
+        0.8
+    ],
+    "伪证罪": [
+        "perjury",
+        0.9
+    ],
+    "醉驾自证法": [
+        "per se law",
+        0.9
+    ],
+    "人身伤害": [
+        "personal injury",
+        0.9
+    ],
+    "个人财产": [
+        "personal property",
+        0.9
+    ],
+    "按家系继承": [
+        "per stirpes",
+        0.8
+    ],
+    "永久性禁止": [
+        "permanent injunction",
+        0.9
+    ],
+    "个人保护令": [
+        "personal protection order",
+        0.9
+    ],
+    "自我担保": [
+        "personal recognizance",
+        0.7
+    ],
+    "小陪审团": [
+        "petit jury",
+        0.9
+    ],
+    "请愿书": [
+        "petition",
+        0.7
+    ],
+    "轻盗窃罪": [
+        "petty larceny",
+        0.9
+    ],
+    "医患沟通特权": [
+        "physician-patient privilege",
+        0.9
+    ],
+    "揭开公司面纱": [
+        "pierce the corporate veil",
+        0.9
+    ],
+    "明显错误重审原则": [
+        "plain error rule",
+        0.9
+    ],
+    "原告": [
+        "plaintiff",
+        0.9
+    ],
+    "认罪协议": [
+        "plea agreement",
+        0.9
+    ],
+    "认罪协商": [
+        "plea bargaining",
+        0.9
+    ],
+    "答辩状": [
+        "pleadings",
+        0.9
+    ],
+    "全权监护人": [
+        "plenary guardian",
+        0.8
+    ],
+    "人头税": [
+        "poll tax",
+        0.4
+    ],
+    "多配偶罪": [
+        "polygamy",
+        0.9
+    ],
+    "实在法": [
+        "positive law",
+        1.0
+    ],
+    "婚后协议": [
+        "postnuptial agreement",
+        0.7
+    ],
+    "授权委托书": [
+        "power of attorney",
+        0.95
+    ],
+    "判例": [
+        "precedent",
+        1.0
+    ],
+    "优先行使": [
+        "preemption",
+        1.0
+    ],
+    "可更改的错误": [
+        "prejudicial error",
+        0.9
+    ],
+    "预备禁令": [
+        "preliminary injunction",
+        0.9
+    ],
+    "优势证据": [
+        "preponderance of evidence",
+        0.95
+    ],
+    "特权": [
+        "privilege",
+        0.9
+    ],
+    "特权令状": [
+        "prerogative writ",
+        0.9
+    ],
+    "习惯": [
+        "prescription",
+        0.6
+    ],
+    "约定俗成的": [
+        "prescriptive",
+        0.6
+    ],
+    "判决前调查": [
+        "presentence investigation",
+        0.9
+    ],
+    "判决前调查报告": [
+        "presentence report",
+        0.9
+    ],
+    "陪审团报告": [
+        "presentment",
+        0.7
+    ],
+    "推定": [
+        "presumption",
+        0.9
+    ],
+    "事实推定": [
+        "presumption of fact",
+        0.9
+    ],
+    "无罪推定": [
+        "presumption of innocence",
+        1.0
+    ],
+    "法律推定": [
+        "presumption of law",
+        0.9
+    ],
+    "推定证据": [
+        "presumptive evidence",
+        0.9
+    ],
+    "被遗漏的继承人": [
+        "pretermitted child",
+        0.7
+    ],
+    "审前会议": [
+        "pretrial conference",
+        0.7
+    ],
+    "审前干预": [
+        "pretrial intervention",
+        0.7
+    ],
+    "保外候审": [
+        "pretrial release",
+        0.9
+    ],
+    "胜诉方": [
+        "prevailing party",
+        0.8
+    ],
+    "欺诈行为": [
+        "prevarication",
+        0.6
+    ],
+    "防范性拘留": [
+        "preventive detention",
+        0.9
+    ],
+    "表面证据确凿案件": [
+        "prima facie case",
+        0.95
+    ],
+    "初步证据": [
+        "prima facie evidence",
+        0.95
+    ],
+    "委托人/保证人/信托财产": [
+        "principal",
+        0.9
+    ],
+    "事前限制": [
+        "prior restraint",
+        1.0
+    ],
+    "留置权优先受偿": [
+        "priority of liens",
+        0.9
+    ],
+    "监狱": [
+        "prison",
+        0.6
+    ],
+    "私法": [
+        "private law",
+        0.7
+    ],
+    "非公开发行": [
+        "private offering",
+        0.7
+    ],
+    "私人开业": [
+        "private practice",
+        0.6
+    ],
+    "免责言论": [
+        "privileged communications",
+        0.9
+    ],
+    "拘捕豁免权": [
+        "privilege from arrest",
+        0.9
+    ],
+    "当事人间法律关系": [
+        "privity",
+        0.8
+    ],
+    "合理依据": [
+        "probable cause",
+        0.95
+    ],
+    "遗嘱检验程序": [
+        "probate",
+        0.9
+    ],
+    "遗嘱检验法院": [
+        "probate court",
+        0.7
+    ],
+    "缓刑": [
+        "suspended sentence",
+        0.9
+    ],
+    "缓刑监督官": [
+        "probation officer",
+        0.7
+    ],
+    "证据力": [
+        "probative value",
+        0.9
+    ],
+    "无偿法律服务": [
+        "pro bono",
+        0.6
+    ],
+    "诉讼程序": [
+        "process",
+        0.9
+    ],
+    "传票送达员": [
+        "process server",
+        0.7
+    ],
+    "协议离婚": [
+        "pro con divorce",
+        0.7
+    ],
+    "产品责任": [
+        "products liability",
+        0.9
+    ],
+    "禁令": [
+        "prohibition",
+        0.9
+    ],
+    "冗词": [
+        "prolixity",
+        0.5
+    ],
+    "接受承诺者": [
+        "promisee",
+        0.8
+    ],
+    "做出承诺者": [
+        "promisor",
+        0.8
+    ],
+    "承诺的": [
+        "promissory",
+        0.7
+    ],
+    "允诺禁止反言原则": [
+        "promissory estoppel",
+        0.9
+    ],
+    "本票": [
+        "promissory note",
+        0.8
+    ],
+    "宣布": [
+        "pronounce",
+        0.7
+    ],
+    "自行辩护": [
+        "pro per litigant",
+        0.9
+    ],
+    "财产": [
+        "property",
+        0.9
+    ],
+    "财产债券": [
+        "property bond",
+        0.7
+    ],
+    "亲自辩护": [
+        "propria persona",
+        0.9
+    ],
+    "业主": [
+        "proprietor",
+        0.6
+    ],
+    "检察官": [
+        "state's attorney",
+        0.9
+    ],
+    "提起公诉": [
+        "prosecute",
+        0.9
+    ],
+    "公诉": [
+        "prosecution",
+        0.9
+    ],
+    "即将生效的": [
+        "prospective",
+        0.7
+    ],
+    "招股说明书": [
+        "prospectus",
+        0.7
+    ],
+    "卖淫罪": [
+        "prostitution",
+        0.9
+    ],
+    "被保护人": [
+        "protected person",
+        0.9
+    ],
+    "拒付声明": [
+        "protest",
+        0.6
+    ],
+    "首席书记官": [
+        "prothonotary",
+        0.6
+    ],
+    "规约": [
+        "protocol",
+        0.7
+    ],
+    "挑衅": [
+        "provocation",
+        0.9
+    ],
+    "近因": [
+        "proximate cause",
+        0.95
+    ],
+    "代理权征集制度": [
+        "proxy solicitations",
+        0.7
+    ],
+    "谨慎人规则": [
+        "prudentman rule",
+        0.9
+    ],
+    "公共法案": [
+        "public act",
+        0.9
+    ],
+    "公共辩护律师": [
+        "public defender",
+        0.9
+    ],
+    "公共领域": [
+        "public domain",
+        0.7
+    ],
+    "公法": [
+        "public law",
+        0.9
+    ],
+    "公害": [
+        "public nuisance",
+        0.9
+    ],
+    "公益信托": [
+        "public trust",
+        0.8
+    ],
+    "散布（诽谤）": [
+        "publish",
+        0.8
+    ],
+    "夸大不实的广告": [
+        "puffing",
+        0.6
+    ],
+    "刑罚": [
+        "punishment",
+        0.9
+    ],
+    "惩罚性损害赔偿": [
+        "punitive damages",
+        0.9
+    ],
+    "置产抵押": [
+        "purchase-money mortgage",
+        0.7
+    ],
+    "以认错赎罪": [
+        "purge",
+        0.7
+    ],
+    "故意地": [
+        "purposely",
+        0.9
+    ],
+    "英国王室法律顾问": [
+        "QC",
+        0.6
+    ],
+    "询问": [
+        "quaere",
+        0.6
+    ],
+    "资格": [
+        "qualification",
+        0.7
+    ],
+    "合理给付": [
+        "quantum meruit",
+        0.8
+    ],
+    "准合同": [
+        "quasi contract",
+        0.8
+    ],
+    "准司法的": [
+        "quasi-judicial",
+        0.7
+    ],
+    "高等法院（英国）": [
+        "Queen's Bench",
+        0.6
+    ],
+    "疑问": [
+        "query",
+        0.6
+    ],
+    "事实问题": [
+        "question of fact",
+        0.9
+    ],
+    "法律问题": [
+        "question of law",
+        0.9
+    ],
+    "交换物": [
+        "quid pro quo",
+        0.9
+    ],
+    "确权诉讼": [
+        "quiet title",
+        0.8
+    ],
+    "产权转让契约": [
+        "quitclaim deed",
+        0.7
+    ],
+    "法定人数": [
+        "quorum",
+        0.7
+    ],
+    "金额平均数裁决": [
+        "quotient verdict",
+        0.6
+    ],
+    "权利开示令状": [
+        "quo warranto",
+        0.8
+    ],
+    "有组织敲诈勒索罪": [
+        "racketeering",
+        0.9
+    ],
+    "变造面额的支票": [
+        "raised check",
+        0.8
+    ],
+    "赎金": [
+        "ransom",
+        0.8
+    ],
+    "强奸罪": [
+        "rape",
+        1.0
+    ],
+    "应纳税的": [
+        "ratable",
+        0.7
+    ],
+    "批准": [
+        "ratification",
+        0.9
+    ],
+    "判决依据": [
+        "ratio decidendi",
+        0.9
+    ],
+    "合理依据标准": [
+        "rational basis test",
+        0.8
+    ],
+    "合理推测": [
+        "reasonable belief",
+        0.8
+    ],
+    "合理注意": [
+        "reasonable care",
+        0.9
+    ],
+    "合理怀疑": [
+        "reasonable doubt",
+        0.9
+    ],
+    "普通正常人": [
+        "reasonable person",
+        0.9
+    ],
+    "合理怀疑（盘查标准）": [
+        "reasonable suspicion",
+        0.8
+    ],
+    "反驳证据": [
+        "rebuttal evidence",
+        0.8
+    ],
+    "罢免权": [
+        "recall",
+        0.7
+    ],
+    "监管（破产案）": [
+        "receivership",
+        0.8
+    ],
+    "累犯": [
+        "recidivist",
+        0.8
+    ],
+    "漠视": [
+        "reckless disregard",
+        0.9
+    ],
+    "保证书": [
+        "recognizance",
+        0.7
+    ],
+    "保释金": [
+        "Bail Bond",
+        0.8
+    ],
+    "再犯": [
+        "Recommit",
+        0.7
+    ],
+    "和解": [
+        "Reconciliation",
+        0.7
+    ],
+    "上诉复审问题案卷": [
+        "Record on Appeal",
+        0.8
+    ],
+    "记录员": [
+        "Recorder",
+        0.6
+    ],
+    "档案存废期限表": [
+        "Records Retention and Disposal Schedules",
+        0.6
+    ],
+    "重新获得": [
+        "Recover",
+        0.7
+    ],
+    "收回": [
+        "Recovery",
+        0.7
+    ],
+    "宣布不合格": [
+        "Recusal",
+        0.8
+    ],
+    "回避": [
+        "Recuse",
+        0.8
+    ],
+    "回赎": [
+        "Redemption",
+        0.8
+    ],
+    "与本题不相关的法律问题": [
+        "Red Herring",
+        0.6
+    ],
+    "再主询问": [
+        "Redirect Examination",
+        0.7
+    ],
+    "矫正；补偿": [
+        "Redress",
+        0.8
+    ],
+    "再制定（法律）": [
+        "Reenact",
+        0.7
+    ],
+    "所有权的再获得": [
+        "Reentry",
+        0.7
+    ],
+    "再检查": [
+        "Reexamine",
+        0.7
+    ],
+    "仲裁人": [
+        "Referee",
+        0.7
+    ],
+    "公民复决权": [
+        "Referendum",
+        0.7
+    ],
+    "托付": [
+        "Referral",
+        0.6
+    ],
+    "借款偿债": [
+        "Refunding",
+        0.6
+    ],
+    "（英国）女王": [
+        "Regina",
+        0.6
+    ],
+    "主管注册者": [
+        "Registrar",
+        0.6
+    ],
+    "改造": [
+        "Rehabilitation",
+        0.8
+    ],
+    "复审": [
+        "Rehearing",
+        0.7
+    ],
+    "恢复": [
+        "Renewal",
+        0.7
+    ],
+    "被告的答辩": [
+        "Rejoinder",
+        0.7
+    ],
+    "回溯": [
+        "Relation Back",
+        0.8
+    ],
+    "公诉方": [
+        "Relator",
+        0.7
+    ],
+    "释放；免除债务": [
+        "Release",
+        0.8
+    ],
+    "具结释放": [
+        "release on recognizance",
+        0.8
+    ],
+    "相关的": [
+        "Relevant",
+        0.9
+    ],
+    "信赖": [
+        "Reliance",
+        0.8
+    ],
+    "缓解": [
+        "Relief",
+        0.8
+    ],
+    "剩余地产权": [
+        "Remainder",
+        0.7
+    ],
+    "发回重审": [
+        "Remand",
+        0.9
+    ],
+    "补救方法": [
+        "Remedy",
+        0.9
+    ],
+    "豁免；发回": [
+        "Remit",
+        0.8
+    ],
+    "权利恢复": [
+        "Remitter",
+        0.7
+    ],
+    "减免损害赔偿": [
+        "Remittitur",
+        0.8
+    ],
+    "（案件的）移转": [
+        "Removal",
+        0.7
+    ],
+    "作出（判决）": [
+        "Render",
+        0.8
+    ],
+    "声明放弃（权利、财产）": [
+        "Renounce",
+        0.8
+    ],
+    "声明放弃（信仰、权利）": [
+        "Renunciation",
+        0.8
+    ],
+    "重组": [
+        "Reorganization",
+        0.8
+    ],
+    "动产返还之诉": [
+        "Replevin",
+        0.8
+    ],
+    "答辩": [
+        "Reply",
+        0.8
+    ],
+    "法院报告；行政报告": [
+        "Reports",
+        0.6
+    ],
+    "法院书记官；案例选编": [
+        "Reporter",
+        0.7
+    ],
+    "代表；主张": [
+        "Represent",
+        0.8
+    ],
+    "拒绝履行": [
+        "Repudiate",
+        0.9
+    ],
+    "请求出示规则": [
+        "Request for Production",
+        0.9
+    ],
+    "废除（合同）": [
+        "Rescission",
+        0.9
+    ],
+    "救助原则": [
+        "Rescue Doctrine",
+        0.8
+    ],
+    "保留": [
+        "Reservation",
+        0.7
+    ],
+    "保留条款": [
+        "Reserve Clause",
+        0.8
+    ],
+    "（事件当时的）确切事实": [
+        "Res Gestae",
+        0.9
+    ],
+    "目击证人": [
+        "Res Gestae Witness",
+        0.8
+    ],
+    "剩余遗产条款": [
+        "Residuary Clause",
+        0.8
+    ],
+    "事实自证": [
+        "Res Ipsa Loquitur",
+        0.9
+    ],
+    "一事不再理": [
+        "Res Judicata",
+        1.0
+    ],
+    "雇主责任原则": [
+        "Respondeat Superior",
+        0.9
+    ],
+    "贸易限制": [
+        "Restraint of Trade",
+        0.9
+    ],
+    "限制性条款": [
+        "Restrictive Covenant",
+        0.8
+    ],
+    "律师费": [
+        "Retainer",
+        0.6
+    ],
+    "撤诉": [
+        "Retraxit",
+        0.8
+    ],
+    "有追溯力的": [
+        "Retroactive",
+        0.9
+    ],
+    "撤销（判决）": [
+        "Reversal",
+        0.9
+    ],
+    "可撤销的错误判决": [
+        "Reversible Error",
+        0.9
+    ],
+    "继承权": [
+        "Reversion",
+        0.8
+    ],
+    "吊销（驾驶执照）": [
+        "Revocation (Driver's License)",
+        0.9
+    ],
+    "反敲诈勒索和腐败组织法": [
+        "RICO",
+        0.9
+    ],
+    "附加条款": [
+        "Rider",
+        0.7
+    ],
+    "通行权": [
+        "Right of Way",
+        0.8
+    ],
+    "司法审查成熟原则": [
+        "Ripeness (Doctrine)",
+        0.9
+    ],
+    "调查委托书": [
+        "Rogatory Letters",
+        0.9
+    ],
+    "罗马法": [
+        "Roman Law",
+        0.6
+    ],
+    "使用费": [
+        "royalty",
+        0.7
+    ],
+    "规则": [
+        "rule",
+        0.9
+    ],
+    "成规": [
+        "rubric",
+        0.5
+    ],
+    "法条": [
+        "rule",
+        0.9
+    ],
+    "禁止永久权规则": [
+        "rule against perpetuities",
+        0.9
+    ],
+    "谢利案规则": [
+        "Rule in Shelley's Case",
+        0.8
+    ],
+    "怀尔德案规则": [
+        "Rule in Wild's Case",
+        0.7
+    ],
+    "法院规程": [
+        "rule of court",
+        0.9
+    ],
+    "交通规则": [
+        "rule of the road",
+        0.7
+    ],
+    "航行规则": [
+        "rule of the road",
+        0.7
+    ],
+    "提审裁决": [
+        "rule nisi",
+        0.8
+    ],
+    "安全通行证": [
+        "safe conduct",
+        0.7
+    ],
+    "畅销的": [
+        "salable",
+        0.5
+    ],
+    "制裁": [
+        "sanction",
+        0.9
+    ],
+    "庇护": [
+        "sanctuary",
+        0.7
+    ],
+    "心智健全的": [
+        "sane/sanity",
+        0.9
+    ],
+    "证人隔离": [
+        "sequestration of witnesses",
+        0.8
+    ],
+    "警卫官": [
+        "sergeant-at-arms",
+        0.6
+    ],
+    "雇员": [
+        "servant",
+        0.7
+    ],
+    "服刑": [
+        "serve",
+        0.8
+    ],
+    "递送法律文书": [
+        "service",
+        0.8
+    ],
+    "递送法院令状": [
+        "service of process",
+        0.9
+    ],
+    "债的抵消": [
+        "set-off",
+        0.8
+    ],
+    "解决": [
+        "settle",
+        0.8
+    ],
+    "托管财产者": [
+        "settlor",
+        0.8
+    ],
+    "各自的": [
+        "several",
+        0.7
+    ],
+    "分别的": [
+        "several",
+        0.7
+    ],
+    "单独占有": [
+        "severalty",
+        0.7
+    ],
+    "分离": [
+        "severance",
+        0.8
+    ],
+    "分割": [
+        "severance",
+        0.8
+    ],
+    "性犯罪": [
+        "sex crime",
+        0.9
+    ],
+    "性别歧视": [
+        "sex discrimination",
+        0.9
+    ],
+    "性犯罪者": [
+        "sex offender",
+        0.9
+    ],
+    "性侵者": [
+        "sex offender",
+        0.9
+    ],
+    "性骚扰": [
+        "sexual harassment",
+        0.9
+    ],
+    "副司法部长": [
+        "solicitor general",
+        0.8
+    ],
+    "虚假诉答": [
+        "sham pleading",
+        0.9
+    ],
+    "县的司法警官": [
+        "sheriff",
+        0.8
+    ],
+    "商店行窃": [
+        "shop lifting",
+        0.8
+    ],
+    "陈述理由令": [
+        "show cause order",
+        0.9
+    ],
+    "示因命令": [
+        "show cause order",
+        0.9
+    ],
+    "到场": [
+        "show up",
+        0.7
+    ],
+    "出席": [
+        "show up",
+        0.7
+    ],
+    "律师和法官之间的讨论": [
+        "sidebar",
+        0.7
+    ],
+    "签名": [
+        "signature",
+        0.9
+    ],
+    "签字": [
+        "signature",
+        0.9
+    ],
+    "签署": [
+        "signature",
+        0.9
+    ],
+    "隐名合伙人": [
+        "silent partner",
+        0.7
+    ],
+    "政府法律顾问": [
+        "silk",
+        0.6
+    ],
+    "无期限地": [
+        "sine die",
+        0.7
+    ],
+    "无确定日期地": [
+        "sine die",
+        0.7
+    ],
+    "必要条件": [
+        "sine qua non",
+        0.9
+    ],
+    "要素": [
+        "sine qua non",
+        0.9
+    ],
+    "管辖地": [
+        "venue",
+        0.9
+    ],
+    "行为发生地": [
+        "situs",
+        0.9
+    ],
+    "财产所在地": [
+        "situs",
+        0.9
+    ],
+    "口头诽谤": [
+        "slander",
+        0.9
+    ],
+    "小额赔偿法庭": [
+        "small claims court",
+        0.7
+    ],
+    "反自然性行为": [
+        "sodomy",
+        0.9
+    ],
+    "单独监护权": [
+        "sole custody",
+        0.9
+    ],
+    "独资企业": [
+        "sole proprietorship",
+        0.8
+    ],
+    "犯罪教唆": [
+        "solicitation",
+        0.9
+    ],
+    "偿债能力": [
+        "solvency",
+        0.7
+    ],
+    "偿还能力": [
+        "solvency",
+        0.7
+    ],
+    "有效的": [
+        "valid",
+        0.9
+    ],
+    "国家豁免权": [
+        "sovereign immunity",
+        1.0
+    ],
+    "主权豁免权": [
+        "sovereign immunity",
+        1.0
+    ],
+    "特殊损害赔偿": [
+        "special damages",
+        0.9
+    ],
+    "特别裁决": [
+        "special verdict",
+        0.9
+    ],
+    "不折不扣地": [
+        "specie",
+        0.6
+    ],
+    "依约履行": [
+        "specific performance",
+        0.9
+    ],
+    "具体履行": [
+        "specific performance",
+        0.9
+    ],
+    "速度限制": [
+        "speed limit",
+        0.7
+    ],
+    "快速审理": [
+        "speedy trial",
+        0.9
+    ],
+    "挥霍者": [
+        "spendthrift",
+        0.6
+    ],
+    "浪费者": [
+        "spendthrift",
+        0.6
+    ],
+    "挥霍信托，浪费者信托": [
+        "spendthrift trust",
+        0.8
+    ],
+    "基于大多数意见的决定": [
+        "split decision",
+        0.9
+    ],
+    "分歧判定": [
+        "split decision",
+        0.9
+    ],
+    "掠夺": [
+        "spoliation",
+        0.9
+    ],
+    "结婚的": [
+        "spousal",
+        0.7
+    ],
+    "婚礼的": [
+        "spousal",
+        0.7
+    ],
+    "离婚扶养费": [
+        "spousal support",
+        0.9
+    ],
+    "已过时效": [
+        "stale",
+        0.8
+    ],
+    "潜进": [
+        "stalking",
+        0.9
+    ],
+    "围捕": [
+        "stalking",
+        0.9
+    ],
+    "跟踪": [
+        "stalking",
+        0.9
+    ],
+    "证人席": [
+        "witness stand",
+        0.6
+    ],
+    "起诉权": [
+        "standing",
+        0.9
+    ],
+    "诉由": [
+        "standing",
+        0.9
+    ],
+    "陪审团的规范指导": [
+        "standard jury instructions",
+        0.9
+    ],
+    "星法院": [
+        "Star Chamber",
+        0.6
+    ],
+    "遵循先例原则": [
+        "stare decisis",
+        1.0
+    ],
+    "状态": [
+        "state",
+        0.6
+    ],
+    "声明": [
+        "statement",
+        0.9
+    ],
+    "陈述": [
+        "statement",
+        0.9
+    ],
+    "州刑事被告协理办公室": [
+        "state appellate defender's office",
+        0.8
+    ],
+    "政府律师": [
+        "state's attorney",
+        0.9
+    ],
+    "州律师协会": [
+        "state bar",
+        0.7
+    ],
+    "违反州法律的案件": [
+        "state case",
+        0.8
+    ],
+    "告发同犯的证据": [
+        "state's evidence",
+        0.9
+    ],
+    "身份犯": [
+        "status crime",
+        0.9
+    ],
+    "法令，法规": [
+        "statute",
+        0.9
+    ],
+    "法令全书": [
+        "statute book",
+        0.7
+    ],
+    "成文法": [
+        "statutory law",
+        0.9
+    ],
+    "制定法": [
+        "statutory law",
+        0.9
+    ],
+    "诉讼时效法规": [
+        "statute of limitations",
+        0.9
+    ],
+    "法律汇编": [
+        "statutes at large",
+        0.7
+    ],
+    "身份犯罪": [
+        "status offense",
+        0.9
+    ],
+    "防止欺诈法": [
+        "statute of frauds",
+        0.9
+    ],
+    "依照法令的": [
+        "statutory",
+        0.9
+    ],
+    "法定的": [
+        "statutory",
+        0.9
+    ],
+    "立法解释": [
+        "statutory construction",
+        0.9
+    ],
+    "法律解释": [
+        "statutory construction",
+        0.9
+    ],
+    "法定强奸罪": [
+        "statutory rape",
+        0.9
+    ],
+    "延缓审理": [
+        "stay",
+        0.9
+    ],
+    "约定": [
+        "stipulation",
+        0.9
+    ],
+    "协定": [
+        "stipulation",
+        0.9
+    ],
+    "狭义解释": [
+        "strict construction",
+        0.9
+    ],
+    "严格解释": [
+        "strict construction",
+        0.9
+    ],
+    "无过失责任": [
+        "strict liability",
+        0.9
+    ],
+    "严格责任": [
+        "strict liability",
+        0.9
+    ],
+    "严格审查": [
+        "strict scrutiny",
+        1.0
+    ],
+    "勾划掉": [
+        "strike",
+        0.9
+    ],
+    "自发的": [
+        "sua sponte",
+        0.9
+    ],
+    "依职权的": [
+        "sua sponte",
+        0.9
+    ],
+    "分包商": [
+        "subcontractor",
+        0.7
+    ],
+    "分包人": [
+        "subcontractor",
+        0.7
+    ],
+    "审理中的案件": [
+        "sub judice",
+        0.9
+    ],
+    "法院管辖权": [
+        "subject matter jurisdiction",
+        0.9
+    ],
+    "诉讼事务管辖权": [
+        "subject matter jurisdiction",
+        0.9
+    ],
+    "转租": [
+        "sublet",
+        0.8
+    ],
+    "转租承受人": [
+        "sublessee",
+        0.8
+    ],
+    "被转租人": [
+        "sublessee",
+        0.8
+    ],
+    "转租人": [
+        "sublessor",
+        0.8
+    ],
+    "建议": [
+        "submission",
+        0.7
+    ],
+    "论点": [
+        "submission",
+        0.7
+    ],
+    "提交": [
+        "submit",
+        0.7
+    ],
+    "释律谕令": [
+        "subordination",
+        0.8
+    ],
+    "行贿": [
+        "suborn",
+        0.9
+    ],
+    "作伪证": [
+        "suborn",
+        0.9
+    ],
+    "唆使作伪证罪": [
+        "subornation of perjury",
+        0.9
+    ],
+    "传票": [
+        "summons",
+        0.9
+    ],
+    "随带证件到庭作证的传票": [
+        "subpoena duces tecum",
+        0.9
+    ],
+    "代位，代位偿清": [
+        "subrogation",
+        0.8
+    ],
+    "子公司": [
+        "subsidiary",
+        0.7
+    ],
+    "实体的": [
+        "substantive",
+        0.9
+    ],
+    "规定权利义务的": [
+        "substantive",
+        0.9
+    ],
+    "实体法": [
+        "substantive law",
+        0.9
+    ],
+    "替代者": [
+        "substitute",
+        0.6
+    ],
+    "转租承租人": [
+        "subtenant",
+        0.7
+    ],
+    "继任者": [
+        "successor",
+        0.8
+    ],
+    "私人代表继任人": [
+        "successor personal representative",
+        0.8
+    ],
+    "强制性租占，默许租占": [
+        "sufferance",
+        0.7
+    ],
+    "自杀": [
+        "suicide",
+        0.7
+    ],
+    "完全行为能力人": [
+        "sui juris",
+        0.9
+    ],
+    "即决的": [
+        "summary",
+        0.7
+    ],
+    "简易的": [
+        "summary",
+        0.7
+    ],
+    "简易判决": [
+        "summary judgment",
+        0.9
+    ],
+    "即决处理": [
+        "summary judgment",
+        0.9
+    ],
+    "简易程序": [
+        "summary proceedings",
+        0.8
+    ],
+    "法庭辩论总结": [
+        "summation",
+        0.7
+    ],
+    "向陪审团概述案情": [
+        "sum up",
+        0.7
+    ],
+    "日落法，日暮法": [
+        "Sunset Law",
+        0.7
+    ],
+    "阳光法": [
+        "sunshine law",
+        0.7
+    ],
+    "监管控制": [
+        "superintending control",
+        0.8
+    ],
+    "中止或暂缓执行令状": [
+        "supersedeas",
+        0.9
+    ],
+    "证据禁止之听证": [
+        "suppression hearing",
+        0.9
+    ],
+    "供养令": [
+        "support order",
+        0.9
+    ],
+    "必需的生活费用信托": [
+        "support trust",
+        0.8
+    ],
+    "止住": [
+        "suppress",
+        0.9
+    ],
+    "在上": [
+        "supra",
+        0.6
+    ],
+    "在前": [
+        "supra",
+        0.6
+    ],
+    "担保人": [
+        "surety",
+        0.8
+    ],
+    "履约保证券": [
+        "surety bond",
+        0.8
+    ],
+    "投降": [
+        "surrender",
+        0.7
+    ],
+    "代理": [
+        "surrogate",
+        0.7
+    ],
+    "替代": [
+        "surrogate",
+        0.7
+    ],
+    "代孕母亲": [
+        "surrogate mother",
+        0.8
+    ],
+    "监视": [
+        "surveillance",
+        0.9
+    ],
+    "生存者（共有财产权人）": [
+        "survivor",
+        0.8
+    ],
+    "生存者取得权": [
+        "survivorship",
+        0.8
+    ],
+    "怀疑": [
+        "suspect",
+        0.9
+    ],
+    "犯罪嫌疑人": [
+        "suspect",
+        0.9
+    ],
+    "暂停": [
+        "suspend",
+        0.9
+    ],
+    "终止": [
+        "suspend",
+        0.9
+    ],
+    "暂扣（驾驶执照）": [
+        "suspension (of driver's license)",
+        0.7
+    ],
+    "支持": [
+        "sustain",
+        0.9
+    ],
+    "认可": [
+        "sustain",
+        0.9
+    ],
+    "持续（合法有效）": [
+        "sustain",
+        0.9
+    ],
+    "（经过宣誓、见证的）起诉书": [
+        "sworn complaint affidavit",
+        0.9
+    ],
+    "判决摘要": [
+        "syllabus",
+        0.7
+    ],
+    "默示的": [
+        "tacit",
+        0.8
+    ],
+    "附加": [
+        "tacking",
+        0.7
+    ],
+    "追加": [
+        "tacking",
+        0.7
+    ],
+    "合并": [
+        "tacking",
+        0.7
+    ],
+    "（根据遗嘱）获得": [
+        "take",
+        0.8
+    ],
+    "有权得到": [
+        "take",
+        0.8
+    ],
+    "候补陪审员": [
+        "talesman",
+        0.6
+    ],
+    "有形财产": [
+        "tangible property",
+        0.8
+    ],
+    "有体财产": [
+        "tangible property",
+        0.8
+    ],
+    "关税": [
+        "tariff",
+        0.6
+    ],
+    "税": [
+        "tax",
+        0.7
+    ],
+    "税额": [
+        "tax",
+        0.7
+    ],
+    "应税收入减免": [
+        "tax deduction",
+        0.7
+    ],
+    "逃税": [
+        "tax evasion",
+        0.9
+    ],
+    "漏税": [
+        "tax evasion",
+        0.9
+    ],
+    "专业的": [
+        "technical",
+        0.6
+    ],
+    "严格适用法律法规的": [
+        "technical",
+        0.6
+    ],
+    "专门性": [
+        "technicality",
+        0.5
+    ],
+    "技术性细节": [
+        "technicality",
+        0.5
+    ],
+    "临时救济": [
+        "temporary relief",
+        0.9
+    ],
+    "临时性限制禁令": [
+        "temporary restraining order",
+        0.95
+    ],
+    "临时监护": [
+        "temporary ward",
+        0.8
+    ],
+    "租赁": [
+        "tenancy",
+        0.8
+    ],
+    "分别共有": [
+        "tenancy in common",
+        0.8
+    ],
+    "百分之十保证金程序": [
+        "ten percent bond",
+        0.7
+    ],
+    "不定期租赁": [
+        "tenant at will",
+        0.7
+    ],
+    "要约收购": [
+        "tender offers",
+        0.8
+    ],
+    "保有": [
+        "tenure",
+        0.7
+    ],
+    "在职": [
+        "tenure",
+        0.7
+    ],
+    "长期聘用": [
+        "tenure",
+        0.7
+    ],
+    "租期": [
+        "term",
+        0.7
+    ],
+    "期限": [
+        "term",
+        0.7
+    ],
+    "审理期限": [
+        "term of court",
+        0.7
+    ],
+    "终止父母监护权的听证": [
+        "termination hearing",
+        0.9
+    ],
+    "属地的": [
+        "territorial",
+        0.7
+    ],
+    "地方性的": [
+        "territorial",
+        0.7
+    ],
+    "领土": [
+        "territory",
+        0.9
+    ],
+    "死时留有遗嘱": [
+        "testacy",
+        0.8
+    ],
+    "遗嘱": [
+        "will",
+        0.9
+    ],
+    "遗嘱的": [
+        "testamentary",
+        0.8
+    ],
+    "立遗嘱能力": [
+        "testamentary capacity",
+        0.9
+    ],
+    "遗嘱意愿": [
+        "testamentary intent",
+        0.9
+    ],
+    "遗嘱信托": [
+        "testamentary trust",
+        0.8
+    ],
+    "留有遗嘱的": [
+        "testate",
+        0.8
+    ],
+    "遗嘱继承": [
+        "testate succession",
+        0.8
+    ],
+    "按遗嘱处理财产": [
+        "testation",
+        0.7
+    ],
+    "留有遗嘱的人": [
+        "testator",
+        0.8
+    ],
+    "判例案件": [
+        "test case",
+        0.9
+    ],
+    "作证": [
+        "testify",
+        0.9
+    ],
+    "证词": [
+        "testimony",
+        0.9
+    ],
+    "盗窃": [
+        "theft",
+        0.95
+    ],
+    "小偷": [
+        "thief",
+        0.6
+    ],
+    "盗贼": [
+        "thief",
+        0.6
+    ],
+    "做贼，偷": [
+        "thieve",
+        0.6
+    ],
+    "刑讯逼供": [
+        "third-degree",
+        0.9
+    ],
+    "第三方": [
+        "third person",
+        0.6
+    ],
+    "索赔涉及第三方的诉讼": [
+        "third-party claim",
+        0.8
+    ],
+    "追加第三方为被告": [
+        "third-party complaint",
+        0.8
+    ],
+    "威胁": [
+        "threat",
+        0.8
+    ],
+    "恐吓": [
+        "threat",
+        0.8
+    ],
+    "事不过三": [
+        "three strikes",
+        0.9
+    ],
+    "定罪前羁押日期": [
+        "time served",
+        0.7
+    ],
+    "权益；权利": [
+        "title",
+        0.9
+    ],
+    "所有权证书": [
+        "title deed",
+        0.9
+    ],
+    "产权调查": [
+        "title search",
+        0.8
+    ],
+    "取消": [
+        "vacate",
+        0.8
+    ],
+    "托伦斯登记制": [
+        "Torrens System",
+        0.7
+    ],
+    "侵权": [
+        "tort",
+        0.9
+    ],
+    "侵权行为人": [
+        "tortfeasor",
+        0.8
+    ],
+    "构成侵权": [
+        "tortuous",
+        0.7
+    ],
+    "拷问；严刑拷打": [
+        "torture",
+        0.95
+    ],
+    "商业设施": [
+        "trade fixture",
+        0.7
+    ],
+    "（注册）商标": [
+        "trademark",
+        0.9
+    ],
+    "商业惯例；贸易惯例": [
+        "trade usage",
+        0.8
+    ],
+    "放弃管辖权": [
+        "traditional waiver",
+        0.7
+    ],
+    "传统证据": [
+        "traditionary evidence",
+        0.6
+    ],
+    "交易；相互作用": [
+        "transaction",
+        0.8
+    ],
+    "转让；转移": [
+        "transfer",
+        0.8
+    ],
+    "短暂的；短期的": [
+        "transitory",
+        0.6
+    ],
+    "否认；反驳": [
+        "traverse",
+        0.7
+    ],
+    "叛国罪": [
+        "treason",
+        1.0
+    ],
+    "埋藏物；无主财宝": [
+        "treasure trove",
+        0.6
+    ],
+    "条约": [
+        "treaty",
+        1.0
+    ],
+    "非法侵入": [
+        "trespass",
+        0.9
+    ],
+    "应受审讯的；可审讯的": [
+        "triable",
+        0.7
+    ],
+    "审理；审判": [
+        "trial",
+        0.9
+    ],
+    "陪审团审理": [
+        "trial by jury",
+        1.0
+    ],
+    "一审法庭，初审法院": [
+        "trial court",
+        0.8
+    ],
+    "重新审理": [
+        "trial de novo",
+        0.9
+    ],
+    "出庭辩护律师": [
+        "trial lawyer",
+        0.7
+    ],
+    "特别法庭；审理委员会": [
+        "tribunal",
+        0.8
+    ],
+    "审讯者；司法人员": [
+        "trier",
+        0.7
+    ],
+    "触发法律": [
+        "trigger laws",
+        0.8
+    ],
+    "女性（名词后缀）": [
+        "trix",
+        0.4
+    ],
+    "正式起诉状": [
+        "true bill",
+        0.9
+    ],
+    "经核准无误的复印件": [
+        "true copy",
+        0.7
+    ],
+    "信托；托管": [
+        "trust",
+        0.9
+    ],
+    "遗嘱信托协议": [
+        "trust agreement or declaration",
+        0.9
+    ],
+    "信托公司": [
+        "trust company",
+        0.7
+    ],
+    "信托书；信托契据": [
+        "trust deed",
+        0.9
+    ],
+    "特纳听证": [
+        "turner hearing",
+        0.8
+    ],
+    "破产管理人": [
+        "trustee in bankruptcy",
+        0.9
+    ],
+    "审理；审讯": [
+        "try",
+        0.9
+    ],
+    "产权确认之诉": [
+        "try title",
+        0.8
+    ],
+    "美国统一商法典": [
+        "UCC",
+        0.9
+    ],
+    "州际统一家庭抚养法": [
+        "Uniform Interstate Family Support Act",
+        0.9
+    ],
+    "基本事实": [
+        "ultimate facts",
+        0.9
+    ],
+    "主要事实": [
+        "ultimate facts",
+        0.9
+    ],
+    "高危作业": [
+        "ultrahazardous activity",
+        0.8
+    ],
+    "超越权限": [
+        "ultra vires",
+        0.9
+    ],
+    "（权利等）不可剥夺的": [
+        "unalienable",
+        1.0
+    ],
+    "不可上诉的": [
+        "unappealable",
+        0.9
+    ],
+    "未被指控的": [
+        "uncharged",
+        0.7
+    ],
+    "污手原则": [
+        "unclean hands",
+        0.9
+    ],
+    "显失公平的": [
+        "unconscionable",
+        0.9
+    ],
+    "极不公平的": [
+        "unconscionable",
+        0.9
+    ],
+    "违宪的": [
+        "unconstitutional",
+        1.0
+    ],
+    "未经证实的": [
+        "uncorroborated",
+        0.9
+    ],
+    "无辩护人的": [
+        "undefended",
+        0.9
+    ],
+    "缺乏": [
+        "underage",
+        0.6
+    ],
+    "不足": [
+        "underage",
+        0.6
+    ],
+    "副警长": [
+        "undersheriff",
+        0.6
+    ],
+    "醉酒的": [
+        "under the influence",
+        0.9
+    ],
+    "不正当影响": [
+        "undue influence",
+        0.9
+    ],
+    "无负担的": [
+        "unencumbered",
+        0.7
+    ],
+    "不可强制的": [
+        "unenforceable",
+        0.9
+    ],
+    "不可强制执行的合同": [
+        "unenforceable contract",
+        0.9
+    ],
+    "不公平竞争": [
+        "unfair competition",
+        0.9
+    ],
+    "不正当竞争": [
+        "unfair competition",
+        0.9
+    ],
+    "一院的": [
+        "unicameral",
+        0.6
+    ],
+    "单院的": [
+        "unicameral",
+        0.6
+    ],
+    "不当得利": [
+        "unjust enrichment",
+        0.9
+    ],
+    "非法的": [
+        "unlawful",
+        0.9
+    ],
+    "非法集会": [
+        "unlawful assembly",
+        0.9
+    ],
+    "非法扣押": [
+        "unlawful detainer",
+        0.8
+    ],
+    "非法搜查": [
+        "unlawful search",
+        1.0
+    ],
+    "未清算的（债务）": [
+        "unliquidated",
+        0.6
+    ],
+    "无担保的": [
+        "unsecured",
+        0.7
+    ],
+    "（传票）未送达的": [
+        "unserved",
+        0.8
+    ],
+    "未宣誓的（证言）": [
+        "unsworn",
+        0.7
+    ],
+    "未经审讯的": [
+        "untried",
+        0.9
+    ],
+    "不成文的": [
+        "unwritten",
+        0.6
+    ],
+    "用户": [
+        "user",
+        0.6
+    ],
+    "权利享有者": [
+        "user",
+        0.6
+    ],
+    "高利贷者": [
+        "usurer",
+        0.6
+    ],
+    "高利贷的": [
+        "usurious",
+        0.6
+    ],
+    "高利贷合同": [
+        "usurious contract",
+        0.8
+    ],
+    "高利贷": [
+        "usury",
+        0.6
+    ],
+    "使用（假币）": [
+        "utter",
+        0.9
+    ],
+    "对（诉讼、比赛中的对方）": [
+        "v.",
+        0.6
+    ],
+    "空的": [
+        "vacant",
+        0.6
+    ],
+    "空白的": [
+        "vacant",
+        0.6
+    ],
+    "流浪罪": [
+        "vagrancy",
+        0.6
+    ],
+    "有值对价": [
+        "valuable consideration",
+        0.9
+    ],
+    "评估": [
+        "valuation",
+        0.6
+    ],
+    "差异": [
+        "variance",
+        0.7
+    ],
+    "贪污的": [
+        "venal",
+        0.9
+    ],
+    "受贿的": [
+        "venal",
+        0.9
+    ],
+    "出售": [
+        "vend",
+        0.7
+    ],
+    "买方": [
+        "vendee",
+        0.7
+    ],
+    "卖方": [
+        "vendor",
+        0.7
+    ],
+    "陪审员召集令": [
+        "venire",
+        0.9
+    ],
+    "审判地": [
+        "venue",
+        0.9
+    ],
+    "逐字记录": [
+        "verbatim",
+        0.7
+    ],
+    "（陪审团）裁决": [
+        "verdict",
+        1.0
+    ],
+    "属实声明": [
+        "verification",
+        0.7
+    ],
+    "保密说明": [
+        "verified statement",
+        0.7
+    ],
+    "对（诉讼中的对方）": [
+        "versus",
+        0.6
+    ],
+    "既定的": [
+        "vested",
+        0.8
+    ],
+    "绝对的": [
+        "vested",
+        0.8
+    ],
+    "既得利益": [
+        "vested interest",
+        0.9
+    ],
+    "否决权": [
+        "veto",
+        1.0
+    ],
+    "缠讼；无理上诉": [
+        "vexatious litigation",
+        0.8
+    ],
+    "大学副校长": [
+        "vice chancellor",
+        0.6
+    ],
+    "妨害社会风气罪": [
+        "vice crimes",
+        0.6
+    ],
+    "附近的地区": [
+        "vicinage",
+        0.6
+    ],
+    "检查": [
+        "view",
+        0.7
+    ],
+    "暴力": [
+        "violence",
+        0.9
+    ],
+    "暴力的": [
+        "violent",
+        0.9
+    ],
+    "探望令": [
+        "visitation order",
+        0.8
+    ],
+    "破坏；使无效": [
+        "vitiate",
+        0.9
+    ],
+    "无效合同": [
+        "void contract",
+        1.0
+    ],
+    "可撤销的合同": [
+        "voidable contract",
+        0.9
+    ],
+    "挑选陪审员的过程": [
+        "voir dire",
+        0.9
+    ],
+    "陪审员资格审查": [
+        "voir dire exam",
+        0.9
+    ],
+    "委托表决权": [
+        "voting trust",
+        0.8
+    ],
+    "优惠券": [
+        "voucher",
+        0.6
+    ],
+    "立案听证": [
+        "wade hearing",
+        0.7
+    ],
+    "等待期间": [
+        "waiting period",
+        0.7
+    ],
+    "放弃（权利）": [
+        "waive",
+        0.9
+    ],
+    "自动放弃；弃权": [
+        "waiver",
+        0.9
+    ],
+    "放弃管辖权听证": [
+        "waiver hearing",
+        0.8
+    ],
+    "放弃豁免权": [
+        "waiver of immunity",
+        0.9
+    ],
+    "放弃司法管辖权": [
+        "waiver of jurisdiction",
+        0.9
+    ],
+    "自动放弃": [
+        "automatic waiver",
+        0.7
+    ],
+    "传统放弃": [
+        "traditional waiver",
+        0.7
+    ],
+    "沃克听证": [
+        "walker hearing",
+        0.7
+    ],
+    "恶意的；漠不关心的": [
+        "wanton",
+        0.8
+    ],
+    "被监护人": [
+        "ward",
+        0.8
+    ],
+    "批捕令；搜查令": [
+        "warrant",
+        1.0
+    ],
+    "逮捕令": [
+        "warrant of arrest",
+        1.0
+    ],
+    "消除批捕令": [
+        "warrant recall",
+        0.8
+    ],
+    "无证搜查": [
+        "warrantless search",
+        1.0
+    ],
+    "被保证人": [
+        "warrantee",
+        0.7
+    ],
+    "保修单": [
+        "warranty",
+        0.7
+    ],
+    "虚假交易": [
+        "wash sale",
+        0.7
+    ],
+    "产业价值降低": [
+        "waste",
+        0.8
+    ],
+    "掺水股票": [
+        "watered stock",
+        0.9
+    ],
+    "证据充分": [
+        "weight of evidence",
+        0.9
+    ],
+    "鉴于": [
+        "whereas",
+        0.5
+    ],
+    "寡妇": [
+        "widow",
+        0.4
+    ],
+    "寡妇遗产选择权": [
+        "widow's election",
+        0.8
+    ],
+    "自发罢工": [
+        "wildcat strike",
+        0.7
+    ],
+    "故意的": [
+        "willful/wilful",
+        0.9
+    ],
+    "停业清理": [
+        "winding up",
+        0.8
+    ],
+    "窃听": [
+        "wiretap",
+        0.9
+    ],
+    "永久不得再起诉": [
+        "with prejudice",
+        0.9
+    ],
+    "可再起诉": [
+        "without prejudice",
+        0.9
+    ],
+    "限制用语": [
+        "words of limitation",
+        0.8
+    ],
+    "受让方用语": [
+        "words of purchase",
+        0.8
+    ],
+    "书面命令": [
+        "writ",
+        0.8
+    ],
+    "扣押令": [
+        "writ of attachment",
+        0.9
+    ],
+    "诉讼文件移送令": [
+        "writ of certiorari",
+        0.9
+    ],
+    "执行令状": [
+        "writ of execution",
+        0.9
+    ],
+    "纠正有事实上错误的判决令": [
+        "writ of error coram nobis",
+        0.8
+    ],
+    "履行职责令": [
+        "writ of mandamus",
+        0.8
+    ],
+    "禁令（禁止越权）": [
+        "writ of prohibition",
+        0.9
+    ],
+    "监管控制令": [
+        "writ of superintending control",
+        0.8
+    ],
+    "书证；书面证明": [
+        "written instrument",
+        0.7
+    ],
+    "违反法律职责；犯罪": [
+        "wrong",
+        0.8
+    ],
+    "非法的；不正当的": [
+        "wrongful",
+        0.8
+    ],
+    "“X”式签名": [
+        "X (signature)",
+        0.6
+    ],
+    "神雕木像": [
+        "xoanon",
+        0.3
+    ],
+    "一年零一天规则": [
+        "year-and-a-day-rule",
+        0.7
+    ],
+    "一年时间；年度": [
+        "year",
+        0.5
+    ],
+    "黄狗合同": [
+        "yellow dog contract",
+        0.7
+    ],
+    "利润；收益": [
+        "yield",
+        0.6
+    ],
+    "到期收益": [
+        "yield to maturity",
+        0.6
+    ],
+    "未成年人（4-7岁）": [
+        "young person",
+        0.7
+    ],
+    "未成年犯": [
+        "youthful offender",
+        0.8
+    ],
+    "有偏见之证人": [
+        "zealous witness",
+        0.7
+    ],
+    "零时条款": [
+        "zero hours",
+        0.6
+    ],
+    "分区规划": [
+        "zoning",
+        0.7
+    ]
+}
