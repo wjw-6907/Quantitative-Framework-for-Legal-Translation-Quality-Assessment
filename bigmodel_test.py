@@ -1,5 +1,6 @@
 import requests
-DASHSCOPE_API_KEY="sk-6c32bf3844e9439ea6a50cb9de638a5a"
+# 用您的百炼API Key代替YOUR_DASHSCOPE_API_KEY
+DASHSCOPE_API_KEY="YOUR_DASHSCOPE_API_KEY"
 
 # data = {
 # 	"model": "deepseek-r1:7b",
