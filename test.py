@@ -1,4 +1,5 @@
 import json
+import os
 import time
 
 import pandas as pd
@@ -98,7 +99,7 @@ def extract_legal_releation(text, legal_releation_key, model):
                               "shijian": 0, "xuanze": 0, "paichu": 0, "dijin": 0,
                               "jieshi": 0, "tidai": 0, "chufa": 0}
     # 加载spaCy的模型
-    nlp = spacy.load('./venv/legal/bin/'+model+'/'+model+'-3.8.0')
+    nlp = spacy.load(model)
     doc = nlp(text)
 
     print("依存句法分析中...")
@@ -157,7 +158,9 @@ def logical_consistency_score(original_text, translated_text, en_legal_releation
     return result, all(v==0 for v in original_num.values()), all(v==0 for v in translated_num.values())
 def bigmodel_ds(text):
     import dashscope
-    DASHSCOPE_API_KEY = "sk-6c32bf3844e9439ea6a50cb9de638a5a"
+    DASHSCOPE_API_KEY = os.getenv("DASHSCOPE_API_KEY")
+    if not DASHSCOPE_API_KEY:
+        raise RuntimeError("DASHSCOPE_API_KEY is not configured")
     messages = [
         {
             "role": "user",
@@ -364,19 +367,20 @@ def all_score(original_text,translated_text):
 
     return score,term_flag,legal_flag,effect_flag
 
-data_path = "测试语料1000条.xlsx"
-df =pd.read_excel(data_path)
-term_num = 0
-legal_num =0
-power_num = 0
-time1 = time.time()
-for i, row in enumerate(df.iterrows()):
-    original_text = row[1]['中文']
-    translated_text = row[1]['英文']
-    score,term_flag,legal_flag,effect_flag = all_score(original_text,translated_text)
-    if term_flag:term_num+=1
-    if legal_flag:legal_num+=1
-    if effect_flag:power_num+=1
+if __name__ == "__main__":
+    data_path = "测试语料1000条.xlsx"
+    df =pd.read_excel(data_path)
+    term_num = 0
+    legal_num =0
+    power_num = 0
+    time1 = time.time()
+    for i, row in enumerate(df.iterrows()):
+        original_text = row[1]['中文']
+        translated_text = row[1]['英文']
+        score,term_flag,legal_flag,effect_flag = all_score(original_text,translated_text)
+        if term_flag:term_num+=1
+        if legal_flag:legal_num+=1
+        if effect_flag:power_num+=1
 
-time2 = time.time()
-print(f"共{i + 1}条文本，其中{term_num}条中包含术语，{legal_num}条中包含逻辑关系，{power_num}条中包含效力动词，花费时间为 {time2 - time1}s.")
+    time2 = time.time()
+    print(f"共{i + 1}条文本，其中{term_num}条中包含术语，{legal_num}条中包含逻辑关系，{power_num}条中包含效力动词，花费时间为 {time2 - time1}s.")
