@@ -1,0 +1,6 @@
+dashscope
+openpyxl
+pandas
+requests
+sentence-transformers
+spacy
